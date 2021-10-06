@@ -1,0 +1,2097 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a Reload version 1.1 SCORM 2004 Content Package document-->
+<!--Spawned from the Reload Content Package Generator - http://www.reload.ac.uk-->
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:lom="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" identifier="MANIFEST-97C5AF5F-3C63-3CCB-8CE1-89E1D679663A" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd http://ltsc.ieee.org/xsd/LOM lom.xsd http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd" version="1.3">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 3rd Edition</schemaversion>
+  </metadata>
+  <organizations default="ORG-2FDCB20D-3585-83DC-9FDC-10AC262CD411">
+    <organization identifier="ORG-2FDCB20D-3585-83DC-9FDC-10AC262CD411" structure="hierarchical">
+      <title>Organization</title>
+    </organization>
+  </organizations>
+  <resources>   
+    
+    <resource identifier="RES-E540A370-8531-E33F-2324-EB59632B2131" type="webcontent" href="m8l1/audio/m8l1/m8l1f01.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f01.mp3" />
+    </resource>
+    <resource identifier="RES-94402717-AEEF-ABB9-8D1E-5D1779CBA610" type="webcontent" href="m8l1/audio/m8l1/m8l1f02.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f02.mp3" />
+    </resource>
+    <resource identifier="RES-3541FDC9-D669-F1B8-8F09-558061F2CC41" type="webcontent" href="m8l1/audio/m8l1/m8l1f03.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f03.mp3" />
+    </resource>
+    <resource identifier="RES-60393A0F-4C30-EDE3-B25C-46068C83914F" type="webcontent" href="m8l1/audio/m8l1/m8l1f04.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f04.mp3" />
+    </resource>
+    <resource identifier="RES-2CC7472B-1C0F-9BB5-5921-BBF967843811" type="webcontent" href="m8l1/audio/m8l1/m8l1f05.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f05.mp3" />
+    </resource>
+    <resource identifier="RES-4E79D519-85E3-331A-6354-C6E6CE1B61B2" type="webcontent" href="m8l1/audio/m8l1/m8l1f06.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f06.mp3" />
+    </resource>
+    <resource identifier="RES-96234BBE-F747-0871-9CAF-6154C45B327C" type="webcontent" href="m8l1/audio/m8l1/m8l1f07.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f07.mp3" />
+    </resource>
+    <resource identifier="RES-FA94F483-735E-CC2F-5023-6ED8E2B81653" type="webcontent" href="m8l1/audio/m8l1/m8l1f08.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f08.mp3" />
+    </resource>
+    <resource identifier="RES-DA8DD78F-C013-1393-94E3-150ADF5CFE70" type="webcontent" href="m8l1/audio/m8l1/m8l1f09.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f09.mp3" />
+    </resource>
+    <resource identifier="RES-254025F6-404A-E383-130F-36A8D680FEA0" type="webcontent" href="m8l1/audio/m8l1/m8l1f10.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f10.mp3" />
+    </resource>
+    <resource identifier="RES-DB91ED0F-0105-98D9-9DA5-6308AB9A2066" type="webcontent" href="m8l1/audio/m8l1/m8l1f11.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f11.mp3" />
+    </resource>
+    <resource identifier="RES-83DDCE83-6C09-2633-CCEE-A91D025E455E" type="webcontent" href="m8l1/audio/m8l1/m8l1f12.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f12.mp3" />
+    </resource>
+    <resource identifier="RES-B1CA491F-C20F-5361-7C54-386CA8B15D84" type="webcontent" href="m8l1/audio/m8l1/m8l1f13.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f13.mp3" />
+    </resource>
+    <resource identifier="RES-315F22F9-0E55-F331-E32C-FBA55CAA82EA" type="webcontent" href="m8l1/audio/m8l1/m8l1f14.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f14.mp3" />
+    </resource>
+    <resource identifier="RES-9B22D28B-2404-F612-9E58-F0233B12FA8E" type="webcontent" href="m8l1/audio/m8l1/m8l1f15.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f15.mp3" />
+    </resource>
+    <resource identifier="RES-3CEA66BD-5AD4-A628-EF2C-8D7DD6ADEBED" type="webcontent" href="m8l1/audio/m8l1/m8l1f16.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f16.mp3" />
+    </resource>
+    <resource identifier="RES-BC15F23B-C706-0528-BC42-472CDC89B2AD" type="webcontent" href="m8l1/audio/m8l1/m8l1f17.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f17.mp3" />
+    </resource>
+    <resource identifier="RES-A703A111-55E8-146C-C230-29E731787165" type="webcontent" href="m8l1/audio/m8l1/m8l1f18.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f18.mp3" />
+    </resource>
+    <resource identifier="RES-D2C0AAA0-476E-A688-D3BF-822CD8D08C8F" type="webcontent" href="m8l1/audio/m8l1/m8l1f19.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f19.mp3" />
+    </resource>
+    <resource identifier="RES-658A8A14-6AB2-5CB0-976D-65D86E1F734E" type="webcontent" href="m8l1/audio/m8l1/m8l1f20.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f20.mp3" />
+    </resource>
+    <resource identifier="RES-C9371B78-2CB6-D2C5-297D-CDF6EA8E12CD" type="webcontent" href="m8l1/audio/m8l1/m8l1f21.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f21.mp3" />
+    </resource>
+    <resource identifier="RES-B7EC9969-21CA-300B-9117-8869CFDDFE22" type="webcontent" href="m8l1/audio/m8l1/m8l1f22.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f22.mp3" />
+    </resource>
+    <resource identifier="RES-046D1005-1355-B328-34BF-17B4A9BB8581" type="webcontent" href="m8l1/audio/m8l1/m8l1f23.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f23.mp3" />
+    </resource>
+    <resource identifier="RES-1CE48B4B-9CE5-0275-CF07-56C9858FA526" type="webcontent" href="m8l1/audio/m8l1/m8l1f24.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f24.mp3" />
+    </resource>
+    <resource identifier="RES-ED1D337E-4F18-ED7F-2E2B-4A650BBE96E3" type="webcontent" href="m8l1/audio/m8l1/m8l1f25.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f25.mp3" />
+    </resource>
+    <resource identifier="RES-D20635FF-2732-9732-4057-DF0A17922809" type="webcontent" href="m8l1/audio/m8l1/m8l1f26.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f26.mp3" />
+    </resource>
+    <resource identifier="RES-38AEFBBC-9F6C-C927-1B83-12919690E9D3" type="webcontent" href="m8l1/audio/m8l1/m8l1f27.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f27.mp3" />
+    </resource>
+    <resource identifier="RES-0CAA773E-316A-7A78-C4E1-7CE3A2442389" type="webcontent" href="m8l1/audio/m8l1/m8l1f28.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f28.mp3" />
+    </resource>
+    <resource identifier="RES-19C01E5D-B5DC-FBA1-7806-A29548D4F887" type="webcontent" href="m8l1/audio/m8l1/m8l1f29.mp3">
+      <file href="m8l1/audio/m8l1/m8l1f29.mp3" />
+    </resource>
+    <resource identifier="RES-E6B8526A-77B4-B9B0-4397-B3B7D9FCF055" type="webcontent" href="m8l1/audio/m8l1/_m8l1f13.mp3">
+      <file href="m8l1/audio/m8l1/_m8l1f13.mp3" />
+    </resource>
+    <resource identifier="RES-29B87C69-A65F-0E8E-A121-003E2C4D001F" type="webcontent" href="m8l1/audio/m8l1/_m8l1f15.mp3">
+      <file href="m8l1/audio/m8l1/_m8l1f15.mp3" />
+    </resource>
+    <resource identifier="RES-60314548-8604-242D-5A81-0125F4A20458" type="webcontent" href="m8l1/audio/m8l1/_m8l1f16.mp3">
+      <file href="m8l1/audio/m8l1/_m8l1f16.mp3" />
+    </resource>
+    
+    
+    <resource identifier="RES-0AB90B96-EC3E-A826-0F42-50F202B9F501" type="webcontent" href="m8l1/audio/AudioPlaceholder.mp3">
+      <file href="m8l1/audio/AudioPlaceholder.mp3" />
+    </resource>
+    <resource identifier="RES-68B32DA7-110E-EC78-B8BE-DAC2EC58DED1" type="webcontent" href="m8l1/fonts/Montserrat/Montserrat-Regular.eot">
+      <file href="m8l1/fonts/Montserrat/Montserrat-Regular.eot" />
+    </resource>
+    <resource identifier="RES-0C8D689D-7C1D-493A-C308-BFE437571A6F" type="webcontent" href="m8l1/fonts/Montserrat/Montserrat-Regular.ttf">
+      <file href="m8l1/fonts/Montserrat/Montserrat-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-1AD64E2C-65C5-EBB8-C7CF-34FF305AE93D" type="webcontent" href="m8l1/fonts/Montserrat/Montserrat-Regular.woff">
+      <file href="m8l1/fonts/Montserrat/Montserrat-Regular.woff" />
+    </resource>
+    <resource identifier="RES-231F164D-166D-E4AE-BC41-D3973F913CA5" type="webcontent" href="m8l1/fonts/Montserrat/Montserrat-Regular.woff2">
+      <file href="m8l1/fonts/Montserrat/Montserrat-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-56E727B8-64A8-CB03-4E23-99422C0C21E1" type="webcontent" href="m8l1/fonts/Oswald/static/Oswald-Bold.ttf">
+      <file href="m8l1/fonts/Oswald/static/Oswald-Bold.ttf" />
+    </resource>
+    <resource identifier="RES-C19AE24C-39CA-EE32-A133-0DBDF8226DF5" type="webcontent" href="m8l1/fonts/Oswald/static/Oswald-ExtraLight.ttf">
+      <file href="m8l1/fonts/Oswald/static/Oswald-ExtraLight.ttf" />
+    </resource>
+    <resource identifier="RES-BB6C52B5-D489-4375-ED4F-ABC503C818CA" type="webcontent" href="m8l1/fonts/Oswald/static/Oswald-Light.ttf">
+      <file href="m8l1/fonts/Oswald/static/Oswald-Light.ttf" />
+    </resource>
+    <resource identifier="RES-7AADEEEC-D695-2429-1B66-22F1D1D2948D" type="webcontent" href="m8l1/fonts/Oswald/static/Oswald-Medium.ttf">
+      <file href="m8l1/fonts/Oswald/static/Oswald-Medium.ttf" />
+    </resource>
+    <resource identifier="RES-10C82AAB-0DD5-DADE-80B1-1921E0E0A08C" type="webcontent" href="m8l1/fonts/Oswald/static/Oswald-Regular.ttf">
+      <file href="m8l1/fonts/Oswald/static/Oswald-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-72AB4104-4E01-AC1A-92F2-3F1B3F78CAEA" type="webcontent" href="m8l1/fonts/Oswald/static/Oswald-SemiBold.ttf">
+      <file href="m8l1/fonts/Oswald/static/Oswald-SemiBold.ttf" />
+    </resource>
+    <resource identifier="RES-A1D06A5A-208B-561C-F355-8A676CBDE335" type="webcontent" href="m8l1/fonts/Oswald/OFL.txt">
+      <file href="m8l1/fonts/Oswald/OFL.txt" />
+    </resource>
+    <resource identifier="RES-80FD40A3-8330-CE19-86B1-00E61C8E4D5B" type="webcontent" href="m8l1/fonts/Oswald/Oswald-VariableFont_wght.svg">
+      <file href="m8l1/fonts/Oswald/Oswald-VariableFont_wght.svg" />
+    </resource>
+    <resource identifier="RES-18F1EBF3-1AE5-044B-812D-0CD5C4A24BE7" type="webcontent" href="m8l1/fonts/Oswald/Oswald-VariableFont_wght.ttf">
+      <file href="m8l1/fonts/Oswald/Oswald-VariableFont_wght.ttf" />
+    </resource>
+    <resource identifier="RES-551F3821-FEB6-F79C-5CF6-03491C371DDD" type="webcontent" href="m8l1/fonts/Oswald/Oswald-VariableFont_wght.woff">
+      <file href="m8l1/fonts/Oswald/Oswald-VariableFont_wght.woff" />
+    </resource>
+    <resource identifier="RES-174D7392-8559-81D3-49E1-5F0BD48718A4" type="webcontent" href="m8l1/fonts/Oswald/Oswald-VariableFont_wght.woff2">
+      <file href="m8l1/fonts/Oswald/Oswald-VariableFont_wght.woff2" />
+    </resource>
+    <resource identifier="RES-3186B34C-1417-81C5-8D4B-19533F8FFA66" type="webcontent" href="m8l1/fonts/Oswald/Oswald.eot">
+      <file href="m8l1/fonts/Oswald/Oswald.eot" />
+    </resource>
+    <resource identifier="RES-A8B0BE22-4618-00AA-EDE2-B4D82FC30848" type="webcontent" href="m8l1/fonts/Oswald/README">
+      <file href="m8l1/fonts/Oswald/README" />
+    </resource>
+    <resource identifier="RES-24228E66-A5E7-48D7-181C-9841F7A9BFCC" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.eot">
+      <file href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.eot" />
+    </resource>
+    <resource identifier="RES-44B19FD4-258B-4973-F97A-3C51B49201B7" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.svg">
+      <file href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.svg" />
+    </resource>
+    <resource identifier="RES-30064AE7-FFD5-C570-DA8F-7F17826E851D" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.ttf">
+      <file href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-F5087C71-BE52-959A-AD6B-09B4CCEB0016" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.woff">
+      <file href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.woff" />
+    </resource>
+    <resource identifier="RES-B314332F-A364-7208-61FC-5510228F0D71" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.woff2">
+      <file href="m8l1/fonts/Roboto/Roboto-Condensed-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-77FEB7C1-8755-EDE4-77C7-D2EE422B0119" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Regular.eot">
+      <file href="m8l1/fonts/Roboto/Roboto-Regular.eot" />
+    </resource>
+    <resource identifier="RES-FA3E85C4-BA8E-19CF-A73A-985A1C003277" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Regular.svg">
+      <file href="m8l1/fonts/Roboto/Roboto-Regular.svg" />
+    </resource>
+    <resource identifier="RES-1C2B88BA-530A-63F4-2579-A04F802DB898" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Regular.ttf">
+      <file href="m8l1/fonts/Roboto/Roboto-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-3F99890D-5DB6-E073-39A1-68B367436C57" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Regular.woff">
+      <file href="m8l1/fonts/Roboto/Roboto-Regular.woff" />
+    </resource>
+    <resource identifier="RES-80A4E9A4-DCDE-1E41-59BB-5E86DD3CB2B1" type="webcontent" href="m8l1/fonts/Roboto/Roboto-Regular.woff2">
+      <file href="m8l1/fonts/Roboto/Roboto-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-8EDC6098-E49D-7369-C362-7B46A771191E" type="webcontent" href="m8l1/fonts/fonts.css">
+      <file href="m8l1/fonts/fonts.css" />
+    </resource>
+    <resource identifier="RES-ED72AF24-DDF0-6E5E-830A-5251A487F0A1" type="webcontent" href="m8l1/images/m10l1/Full_Screens.png">
+      <file href="m8l1/images/m10l1/Full_Screens.png" />
+    </resource>
+    <resource identifier="RES-4E5DDE63-CF55-AB1F-AA80-C1C338AD2EED" type="webcontent" href="m8l1/images/m10l1/L3_S1.png">
+      <file href="m8l1/images/m10l1/L3_S1.png" />
+    </resource>
+    <resource identifier="RES-B2FA4CB9-028A-A412-92AC-21055B394D42" type="webcontent" href="m8l1/images/m10l1/L3_S12-a.jpg">
+      <file href="m8l1/images/m10l1/L3_S12-a.jpg" />
+    </resource>
+    <resource identifier="RES-9DAA11B0-DA71-21FF-2FC4-96FA384D7E1A" type="webcontent" href="m8l1/images/m10l1/L3_S12-b.png">
+      <file href="m8l1/images/m10l1/L3_S12-b.png" />
+    </resource>
+    <resource identifier="RES-241142B5-9433-6747-7D60-DFD378E7EA41" type="webcontent" href="m8l1/images/m10l1/L3_S12-c.png">
+      <file href="m8l1/images/m10l1/L3_S12-c.png" />
+    </resource>
+    <resource identifier="RES-9B7C4047-DBF3-F52A-11E0-0082D9FA4802" type="webcontent" href="m8l1/images/m10l1/L3_S12-d.png">
+      <file href="m8l1/images/m10l1/L3_S12-d.png" />
+    </resource>
+    <resource identifier="RES-5BC0BD3D-654E-16B2-866F-DB57E53C2694" type="webcontent" href="m8l1/images/m10l1/L3_S12-e.png">
+      <file href="m8l1/images/m10l1/L3_S12-e.png" />
+    </resource>
+    <resource identifier="RES-5FA24869-1B1F-238D-A185-394C221A9D98" type="webcontent" href="m8l1/images/m10l1/L3_S13.png">
+      <file href="m8l1/images/m10l1/L3_S13.png" />
+    </resource>
+    <resource identifier="RES-26D44839-3946-E45D-C996-58C2FE5FA183" type="webcontent" href="m8l1/images/m10l1/L3_S14-a.png">
+      <file href="m8l1/images/m10l1/L3_S14-a.png" />
+    </resource>
+    <resource identifier="RES-3E6ED4A9-565C-E7DC-17E3-AB388350B054" type="webcontent" href="m8l1/images/m10l1/L3_S14-b.png">
+      <file href="m8l1/images/m10l1/L3_S14-b.png" />
+    </resource>
+    <resource identifier="RES-B8478118-D9DF-6D49-B0BF-43B8A1261743" type="webcontent" href="m8l1/images/m10l1/L3_S15-a.png">
+      <file href="m8l1/images/m10l1/L3_S15-a.png" />
+    </resource>
+    <resource identifier="RES-DBDD6071-E910-63A7-EBA7-9526D03384B3" type="webcontent" href="m8l1/images/m10l1/L3_S15-b.png">
+      <file href="m8l1/images/m10l1/L3_S15-b.png" />
+    </resource>
+    <resource identifier="RES-69A679DB-2FBC-31F7-7D27-5132F8D23902" type="webcontent" href="m8l1/images/m10l1/L3_S16-a.png">
+      <file href="m8l1/images/m10l1/L3_S16-a.png" />
+    </resource>
+    <resource identifier="RES-44054602-1503-D918-6024-001B7D6C3258" type="webcontent" href="m8l1/images/m10l1/L3_S16-b.png">
+      <file href="m8l1/images/m10l1/L3_S16-b.png" />
+    </resource>
+    <resource identifier="RES-0D7C8646-4817-C77F-6A26-1CA90F575BB0" type="webcontent" href="m8l1/images/m10l1/L3_S16-c.png">
+      <file href="m8l1/images/m10l1/L3_S16-c.png" />
+    </resource>
+    <resource identifier="RES-C58AFEAB-8CD5-1E2B-F94E-1F3ED3670566" type="webcontent" href="m8l1/images/m10l1/L3_S16-d.png">
+      <file href="m8l1/images/m10l1/L3_S16-d.png" />
+    </resource>
+    <resource identifier="RES-3D7A0885-8196-0600-959E-E3D98F13D53D" type="webcontent" href="m8l1/images/m10l1/L3_S17.png">
+      <file href="m8l1/images/m10l1/L3_S17.png" />
+    </resource>
+    <resource identifier="RES-B049EF73-62B8-0C35-5CA0-E30379FB729D" type="webcontent" href="m8l1/images/m10l1/L3_S18-a.png">
+      <file href="m8l1/images/m10l1/L3_S18-a.png" />
+    </resource>
+    <resource identifier="RES-27D36FAF-86D5-FB31-AAAE-E8ED0CC3D196" type="webcontent" href="m8l1/images/m10l1/L3_S18-b.png">
+      <file href="m8l1/images/m10l1/L3_S18-b.png" />
+    </resource>
+    <resource identifier="RES-C0ACE9AA-F70C-FA10-E208-AEA46DCE9366" type="webcontent" href="m8l1/images/m10l1/L3_S18-c.jpg">
+      <file href="m8l1/images/m10l1/L3_S18-c.jpg" />
+    </resource>
+    <resource identifier="RES-3E293A8C-6B19-12E2-0F22-2C81DE105C66" type="webcontent" href="m8l1/images/m10l1/L3_S19.png">
+      <file href="m8l1/images/m10l1/L3_S19.png" />
+    </resource>
+    <resource identifier="RES-DA78FCC3-1448-C7D9-305E-901F8D76313C" type="webcontent" href="m8l1/images/m10l1/L3_S2-b.jpg">
+      <file href="m8l1/images/m10l1/L3_S2-b.jpg" />
+    </resource>
+    <resource identifier="RES-E9097593-0EC3-12DB-D10F-3E0153C376AD" type="webcontent" href="m8l1/images/m10l1/L3_S2-c.jpg">
+      <file href="m8l1/images/m10l1/L3_S2-c.jpg" />
+    </resource>
+    <resource identifier="RES-FE9FB5C5-B48E-7C91-15AE-80E57C8B82E7" type="webcontent" href="m8l1/images/m10l1/L3_S2.jpg">
+      <file href="m8l1/images/m10l1/L3_S2.jpg" />
+    </resource>
+    <resource identifier="RES-E3043550-977F-1197-5822-2C7440D5EE94" type="webcontent" href="m8l1/images/m10l1/L3_S3.png">
+      <file href="m8l1/images/m10l1/L3_S3.png" />
+    </resource>
+    <resource identifier="RES-39755A55-B49F-8DDF-7038-205493BD7B5F" type="webcontent" href="m8l1/images/m10l1/L3_S4-a.jpg">
+      <file href="m8l1/images/m10l1/L3_S4-a.jpg" />
+    </resource>
+    <resource identifier="RES-BF3032C5-A202-45A5-6E75-D9B85CDD0035" type="webcontent" href="m8l1/images/m10l1/L3_S4-b.jpg">
+      <file href="m8l1/images/m10l1/L3_S4-b.jpg" />
+    </resource>
+    <resource identifier="RES-F0A0FC2E-6062-5E08-C194-5C6E244D507D" type="webcontent" href="m8l1/images/m10l1/L3_S4-c.jpg">
+      <file href="m8l1/images/m10l1/L3_S4-c.jpg" />
+    </resource>
+    <resource identifier="RES-0C81B3FD-CC3D-251C-474A-79501F11F37F" type="webcontent" href="m8l1/images/m10l1/L3_S4-d.jpg">
+      <file href="m8l1/images/m10l1/L3_S4-d.jpg" />
+    </resource>
+    <resource identifier="RES-796845FA-3A83-11C1-F989-FD4F43EA35FC" type="webcontent" href="m8l1/images/m10l1/L3_S4-e.jpg">
+      <file href="m8l1/images/m10l1/L3_S4-e.jpg" />
+    </resource>
+    <resource identifier="RES-98B77BCD-AA99-B5C2-AADA-150EF93DBBF9" type="webcontent" href="m8l1/images/m10l1/L3_S5-a.jpg">
+      <file href="m8l1/images/m10l1/L3_S5-a.jpg" />
+    </resource>
+    <resource identifier="RES-BC597729-3626-429C-087E-23E08A1FB2F0" type="webcontent" href="m8l1/images/m10l1/L3_S5-b.jpg">
+      <file href="m8l1/images/m10l1/L3_S5-b.jpg" />
+    </resource>
+    <resource identifier="RES-AA475664-C090-8E95-2B08-7C71A74CC7B8" type="webcontent" href="m8l1/images/m10l1/L3_S5-c.jpg">
+      <file href="m8l1/images/m10l1/L3_S5-c.jpg" />
+    </resource>
+    <resource identifier="RES-4FA7211C-2165-6C5F-5A81-A039121278A2" type="webcontent" href="m8l1/images/m10l1/L3_S6-a.png">
+      <file href="m8l1/images/m10l1/L3_S6-a.png" />
+    </resource>
+    <resource identifier="RES-A8D128DB-E516-AE9B-51D9-66682426010F" type="webcontent" href="m8l1/images/m10l1/L3_S6-b.png">
+      <file href="m8l1/images/m10l1/L3_S6-b.png" />
+    </resource>
+    <resource identifier="RES-31D0CA64-C927-A6BD-5EF5-B28A74857B0D" type="webcontent" href="m8l1/images/m10l1/L3_S6-c.png">
+      <file href="m8l1/images/m10l1/L3_S6-c.png" />
+    </resource>
+    <resource identifier="RES-64D594C7-7D99-15F7-A2FE-1EAF2E9E7FC6" type="webcontent" href="m8l1/images/m10l1/L3_S6-d.png">
+      <file href="m8l1/images/m10l1/L3_S6-d.png" />
+    </resource>
+    <resource identifier="RES-F4B8F192-5EE8-2082-8EB2-A919FF449AEB" type="webcontent" href="m8l1/images/m10l1/L3_S6-e.png">
+      <file href="m8l1/images/m10l1/L3_S6-e.png" />
+    </resource>
+    <resource identifier="RES-4D68D4DF-2186-AB53-C6D0-CF383C03F923" type="webcontent" href="m8l1/images/m10l1/L3_S6.png">
+      <file href="m8l1/images/m10l1/L3_S6.png" />
+    </resource>
+    <resource identifier="RES-BA13CB07-8031-47AF-7B90-A8EA9458555A" type="webcontent" href="m8l1/images/m10l1/L3_S7-a.png">
+      <file href="m8l1/images/m10l1/L3_S7-a.png" />
+    </resource>
+    <resource identifier="RES-BE800A9B-CC9C-4688-B0B2-ADEFCB2B7740" type="webcontent" href="m8l1/images/m10l1/L3_S7-b.png">
+      <file href="m8l1/images/m10l1/L3_S7-b.png" />
+    </resource>
+    <resource identifier="RES-8C60B795-AEDF-6CDC-3EB5-1A3AA2916B69" type="webcontent" href="m8l1/images/m10l1/L3_S7-c.png">
+      <file href="m8l1/images/m10l1/L3_S7-c.png" />
+    </resource>
+    <resource identifier="RES-8BACA72B-31E7-3285-966A-F82A31F7279B" type="webcontent" href="m8l1/images/m10l1/L3_S7-d.png">
+      <file href="m8l1/images/m10l1/L3_S7-d.png" />
+    </resource>
+    <resource identifier="RES-402A809A-A9C5-3CE5-563E-C11133B7D74C" type="webcontent" href="m8l1/images/m10l1/L3_S7-e.png">
+      <file href="m8l1/images/m10l1/L3_S7-e.png" />
+    </resource>
+    <resource identifier="RES-6098BAAB-97C7-39E0-C372-7D457073261D" type="webcontent" href="m8l1/images/m10l1/L3_S7-f.png">
+      <file href="m8l1/images/m10l1/L3_S7-f.png" />
+    </resource>
+    <resource identifier="RES-87A9EF07-695E-142C-7322-DB69929908CA" type="webcontent" href="m8l1/images/m10l1/L3_S7.png">
+      <file href="m8l1/images/m10l1/L3_S7.png" />
+    </resource>
+    <resource identifier="RES-3E2D9F83-350F-B7D0-A380-677B12B03CB8" type="webcontent" href="m8l1/images/m10l1/L3_S8-a.png">
+      <file href="m8l1/images/m10l1/L3_S8-a.png" />
+    </resource>
+    <resource identifier="RES-FFBAD264-E5B7-77A5-7FD1-05CD5D99A103" type="webcontent" href="m8l1/images/m10l1/L3_S8-b.png">
+      <file href="m8l1/images/m10l1/L3_S8-b.png" />
+    </resource>
+    <resource identifier="RES-43807D17-FF8E-DAA2-1626-B7712F780C5A" type="webcontent" href="m8l1/images/m10l1/L3_S8-c.png">
+      <file href="m8l1/images/m10l1/L3_S8-c.png" />
+    </resource>
+    <resource identifier="RES-827D5FFE-06DB-0DCF-84C7-AE8E7A3F9E76" type="webcontent" href="m8l1/images/m10l1/L3_S8-d.png">
+      <file href="m8l1/images/m10l1/L3_S8-d.png" />
+    </resource>
+    <resource identifier="RES-8959D782-39DB-0137-8DF8-D2EBC6E08E38" type="webcontent" href="m8l1/images/m10l1/L3_S9-a.png">
+      <file href="m8l1/images/m10l1/L3_S9-a.png" />
+    </resource>
+    <resource identifier="RES-5C8AB504-DBAD-1A6E-AE9E-21232A1AFFA4" type="webcontent" href="m8l1/images/m10l1/L3_S9-b.png">
+      <file href="m8l1/images/m10l1/L3_S9-b.png" />
+    </resource>
+    <resource identifier="RES-00A3E57E-C2D6-9FE0-59DC-8FC2E54D7859" type="webcontent" href="m8l1/images/m10l1/L3_S9-c.png">
+      <file href="m8l1/images/m10l1/L3_S9-c.png" />
+    </resource>
+    <resource identifier="RES-F9BA1D0F-A1B1-75E8-5224-0BEF185AFF6D" type="webcontent" href="m8l1/images/m10l1/L3_S9-d.png">
+      <file href="m8l1/images/m10l1/L3_S9-d.png" />
+    </resource>
+    <resource identifier="RES-B3CA3174-5DD6-FF99-CE4D-618B45551E5A" type="webcontent" href="m8l1/images/m10l1/L3_S9-e.png">
+      <file href="m8l1/images/m10l1/L3_S9-e.png" />
+    </resource>
+    <resource identifier="RES-3E0735AF-06BF-5C27-1ABD-31E04D32FB26" type="webcontent" href="m8l1/images/m10l1/L3_S9.png">
+      <file href="m8l1/images/m10l1/L3_S9.png" />
+    </resource>
+    <resource identifier="RES-1579EF3B-FB6B-4686-A9F2-97BC85EF2DE5" type="webcontent" href="m8l1/images/m10l1/_L3_S5-b.jpg">
+      <file href="m8l1/images/m10l1/_L3_S5-b.jpg" />
+    </resource>
+    <resource identifier="RES-33E95450-5113-28E1-BDCD-FFEDBBD0E11B" type="webcontent" href="m8l1/images/m10l1/_L3_S5-c.jpg">
+      <file href="m8l1/images/m10l1/_L3_S5-c.jpg" />
+    </resource>
+    <resource identifier="RES-1FD71058-5257-53A2-C001-0A3002B0A0AB" type="webcontent" href="m8l1/images/m8l1/1000_350_Slides.psd">
+      <file href="m8l1/images/m8l1/1000_350_Slides.psd" />
+    </resource>
+    <resource identifier="RES-8DD670BC-659D-681C-71CB-B573F133B271" type="webcontent" href="m8l1/images/m8l1/1000_480_Slides.psd">
+      <file href="m8l1/images/m8l1/1000_480_Slides.psd" />
+    </resource>
+    <resource identifier="RES-1ABACB64-6D3D-A165-F7F8-B3487F80D467" type="webcontent" href="m8l1/images/m8l1/600_440_Slides.psd">
+      <file href="m8l1/images/m8l1/600_440_Slides.psd" />
+    </resource>
+    <resource identifier="RES-DDF966B7-EA70-74E5-FA53-5864137E870B" type="webcontent" href="m8l1/images/m8l1/L1_S1.png">
+      <file href="m8l1/images/m8l1/L1_S1.png" />
+    </resource>
+    <resource identifier="RES-3B913470-F9EB-EB40-D966-24C262E35845" type="webcontent" href="m8l1/images/m8l1/L1_S10-a.png">
+      <file href="m8l1/images/m8l1/L1_S10-a.png" />
+    </resource>
+    <resource identifier="RES-C6805F6E-87C2-BB61-F1BB-B3AE18671D13" type="webcontent" href="m8l1/images/m8l1/L1_S10-b.png">
+      <file href="m8l1/images/m8l1/L1_S10-b.png" />
+    </resource>
+    <resource identifier="RES-B3F60C7A-5169-2754-C4B0-7207B4C87B09" type="webcontent" href="m8l1/images/m8l1/L1_S10-c.png">
+      <file href="m8l1/images/m8l1/L1_S10-c.png" />
+    </resource>
+    <resource identifier="RES-DFECAC6C-C1A8-763A-9A81-0A6593973A17" type="webcontent" href="m8l1/images/m8l1/L1_S10-d.png">
+      <file href="m8l1/images/m8l1/L1_S10-d.png" />
+    </resource>
+    <resource identifier="RES-848D913C-C09B-BD40-8A04-76739B8C4D26" type="webcontent" href="m8l1/images/m8l1/L1_S10-e.png">
+      <file href="m8l1/images/m8l1/L1_S10-e.png" />
+    </resource>
+    <resource identifier="RES-86A5300E-A362-5ADA-554F-5BD526A2749E" type="webcontent" href="m8l1/images/m8l1/L1_S11-a.png">
+      <file href="m8l1/images/m8l1/L1_S11-a.png" />
+    </resource>
+    <resource identifier="RES-FBC75355-3A34-53D2-6764-379262E3F46E" type="webcontent" href="m8l1/images/m8l1/L1_S11-b.png">
+      <file href="m8l1/images/m8l1/L1_S11-b.png" />
+    </resource>
+    <resource identifier="RES-E6205042-E40C-6937-D409-6D6AA5E18F7C" type="webcontent" href="m8l1/images/m8l1/L1_S11-c.png">
+      <file href="m8l1/images/m8l1/L1_S11-c.png" />
+    </resource>
+    <resource identifier="RES-8096E5E1-A866-C5F8-F170-E8E920F788AA" type="webcontent" href="m8l1/images/m8l1/L1_S13-a.png">
+      <file href="m8l1/images/m8l1/L1_S13-a.png" />
+    </resource>
+    <resource identifier="RES-51E1D3DF-DBDA-1B46-D69D-C9A87B3D6B2F" type="webcontent" href="m8l1/images/m8l1/L1_S13-b.png">
+      <file href="m8l1/images/m8l1/L1_S13-b.png" />
+    </resource>
+    <resource identifier="RES-CC12DC0D-8DF6-1F35-059F-EADE22E2B588" type="webcontent" href="m8l1/images/m8l1/L1_S14-a.png">
+      <file href="m8l1/images/m8l1/L1_S14-a.png" />
+    </resource>
+    <resource identifier="RES-46F6135D-7F5D-69B2-E005-B9DD0AB1F4BD" type="webcontent" href="m8l1/images/m8l1/L1_S14-b.png">
+      <file href="m8l1/images/m8l1/L1_S14-b.png" />
+    </resource>
+    <resource identifier="RES-570E334E-5CC9-119F-768E-4D945DE39AF8" type="webcontent" href="m8l1/images/m8l1/L1_S16.jpg">
+      <file href="m8l1/images/m8l1/L1_S16.jpg" />
+    </resource>
+    <resource identifier="RES-E7667E41-0EBA-65D5-A1C8-E5E509FF70F7" type="webcontent" href="m8l1/images/m8l1/L1_S17-2.png">
+      <file href="m8l1/images/m8l1/L1_S17-2.png" />
+    </resource>
+    <resource identifier="RES-2F2CC607-750E-8D1F-7761-F10AEA6F89AA" type="webcontent" href="m8l1/images/m8l1/L1_S17-a.png">
+      <file href="m8l1/images/m8l1/L1_S17-a.png" />
+    </resource>
+    <resource identifier="RES-43FB5EA2-BB04-26BE-FFA2-67F3EA20F68E" type="webcontent" href="m8l1/images/m8l1/L1_S17-b.png">
+      <file href="m8l1/images/m8l1/L1_S17-b.png" />
+    </resource>
+    <resource identifier="RES-37CA903D-07B1-FD79-19B7-C92E39601945" type="webcontent" href="m8l1/images/m8l1/L1_S17-c.png">
+      <file href="m8l1/images/m8l1/L1_S17-c.png" />
+    </resource>
+    <resource identifier="RES-C3CC63FF-6B8B-5427-A4E0-5CCA1A3EF133" type="webcontent" href="m8l1/images/m8l1/L1_S17-d.png">
+      <file href="m8l1/images/m8l1/L1_S17-d.png" />
+    </resource>
+    <resource identifier="RES-FEA5C6F0-95BF-98D2-4EAF-0136198FE6F4" type="webcontent" href="m8l1/images/m8l1/L1_S17.png">
+      <file href="m8l1/images/m8l1/L1_S17.png" />
+    </resource>
+    <resource identifier="RES-38B73210-B442-4215-FD23-98931AC33B05" type="webcontent" href="m8l1/images/m8l1/L1_S2-a.jpg">
+      <file href="m8l1/images/m8l1/L1_S2-a.jpg" />
+    </resource>
+    <resource identifier="RES-AF3DE133-4931-47A7-D756-05DBE4510A39" type="webcontent" href="m8l1/images/m8l1/L1_S2-b.jpg">
+      <file href="m8l1/images/m8l1/L1_S2-b.jpg" />
+    </resource>
+    <resource identifier="RES-750B67B9-5568-B78F-0FB1-BC026181C3E2" type="webcontent" href="m8l1/images/m8l1/L1_S2-c.jpg">
+      <file href="m8l1/images/m8l1/L1_S2-c.jpg" />
+    </resource>
+    <resource identifier="RES-71CCCC11-85E4-8A88-188E-2C2960E503B6" type="webcontent" href="m8l1/images/m8l1/L1_S2-d.jpg">
+      <file href="m8l1/images/m8l1/L1_S2-d.jpg" />
+    </resource>
+    <resource identifier="RES-39132060-4B5F-F6D2-A457-C72E94DEEE6E" type="webcontent" href="m8l1/images/m8l1/L1_S2-e.jpg">
+      <file href="m8l1/images/m8l1/L1_S2-e.jpg" />
+    </resource>
+    <resource identifier="RES-096135EB-A1F4-C507-4190-2BB43B57F3B8" type="webcontent" href="m8l1/images/m8l1/L1_S3-a.jpg">
+      <file href="m8l1/images/m8l1/L1_S3-a.jpg" />
+    </resource>
+    <resource identifier="RES-6382BF48-3870-8F9A-7B0D-47D8A56EF98B" type="webcontent" href="m8l1/images/m8l1/L1_S3-b.jpg">
+      <file href="m8l1/images/m8l1/L1_S3-b.jpg" />
+    </resource>
+    <resource identifier="RES-81B12FCF-264B-E935-35C5-01D4A5F83BC2" type="webcontent" href="m8l1/images/m8l1/L1_S3-c.jpg">
+      <file href="m8l1/images/m8l1/L1_S3-c.jpg" />
+    </resource>
+    <resource identifier="RES-DB399C7E-14A8-8C89-1F90-09F3E425DA53" type="webcontent" href="m8l1/images/m8l1/L1_S3-d.jpg">
+      <file href="m8l1/images/m8l1/L1_S3-d.jpg" />
+    </resource>
+    <resource identifier="RES-2F6D11A2-1C5E-16F5-54BF-C727D3B64411" type="webcontent" href="m8l1/images/m8l1/L1_S4.png">
+      <file href="m8l1/images/m8l1/L1_S4.png" />
+    </resource>
+    <resource identifier="RES-90B9F4A6-860F-0336-23B2-BBCACBBD396B" type="webcontent" href="m8l1/images/m8l1/L1_S5-b.jpg">
+      <file href="m8l1/images/m8l1/L1_S5-b.jpg" />
+    </resource>
+    <resource identifier="RES-EFF9F8C5-FFF6-F3D9-6C15-38A1EAB8335A" type="webcontent" href="m8l1/images/m8l1/L1_S5-c.jpg">
+      <file href="m8l1/images/m8l1/L1_S5-c.jpg" />
+    </resource>
+    <resource identifier="RES-81370748-CEC8-0BFB-7D1D-B7B3F5B54863" type="webcontent" href="m8l1/images/m8l1/L1_S5-d.jpg">
+      <file href="m8l1/images/m8l1/L1_S5-d.jpg" />
+    </resource>
+    <resource identifier="RES-4DB25963-278C-4B38-29E3-DD0CEC6808AB" type="webcontent" href="m8l1/images/m8l1/L1_S5-e.jpg">
+      <file href="m8l1/images/m8l1/L1_S5-e.jpg" />
+    </resource>
+    <resource identifier="RES-05DC29CE-3475-38ED-3A08-8A5BF6B98CC1" type="webcontent" href="m8l1/images/m8l1/L1_S5.jpg">
+      <file href="m8l1/images/m8l1/L1_S5.jpg" />
+    </resource>
+    <resource identifier="RES-A6A40CBD-578B-9086-D583-BB41AAA4F8B6" type="webcontent" href="m8l1/images/m8l1/L1_S6-b.jpg">
+      <file href="m8l1/images/m8l1/L1_S6-b.jpg" />
+    </resource>
+    <resource identifier="RES-6549C4A0-3C9E-2E2D-2881-6FC11F9F49BF" type="webcontent" href="m8l1/images/m8l1/L1_S6-c.jpg">
+      <file href="m8l1/images/m8l1/L1_S6-c.jpg" />
+    </resource>
+    <resource identifier="RES-CE8DEF7F-2976-233E-4CD2-CC93E56FF094" type="webcontent" href="m8l1/images/m8l1/L1_S6-d.jpg">
+      <file href="m8l1/images/m8l1/L1_S6-d.jpg" />
+    </resource>
+    <resource identifier="RES-156D8F1A-DCA7-19A3-DCED-BF20CA726BE5" type="webcontent" href="m8l1/images/m8l1/L1_S6-e.jpg">
+      <file href="m8l1/images/m8l1/L1_S6-e.jpg" />
+    </resource>
+    <resource identifier="RES-9959A6EC-1317-B198-F956-07E832C6B955" type="webcontent" href="m8l1/images/m8l1/L1_S6.jpg">
+      <file href="m8l1/images/m8l1/L1_S6.jpg" />
+    </resource>
+    <resource identifier="RES-ECBC19B0-1184-1616-9083-DDBF58535F0E" type="webcontent" href="m8l1/images/m8l1/L1_S8-a.png">
+      <file href="m8l1/images/m8l1/L1_S8-a.png" />
+    </resource>
+    <resource identifier="RES-E5B61FE2-6296-0A2B-F2BD-D500BEE5D622" type="webcontent" href="m8l1/images/m8l1/L1_S8-b.png">
+      <file href="m8l1/images/m8l1/L1_S8-b.png" />
+    </resource>
+    <resource identifier="RES-BD94348E-34D2-E4FF-7E33-FB748528EC9D" type="webcontent" href="m8l1/images/m8l1/L1_S8-c.png">
+      <file href="m8l1/images/m8l1/L1_S8-c.png" />
+    </resource>
+    <resource identifier="RES-0D5495AC-7A58-12D7-A2B9-7236B6A6C9C9" type="webcontent" href="m8l1/images/m8l1/L1_S9-a.png">
+      <file href="m8l1/images/m8l1/L1_S9-a.png" />
+    </resource>
+    <resource identifier="RES-CB127D22-25FD-9937-C830-8B8A2A153CF6" type="webcontent" href="m8l1/images/m8l1/L1_S9-b.png">
+      <file href="m8l1/images/m8l1/L1_S9-b.png" />
+    </resource>
+    <resource identifier="RES-720F0B7C-5BA7-98FF-83F7-BF3C4495E419" type="webcontent" href="m8l1/images/m8l1/L1_S9-c.jpg">
+      <file href="m8l1/images/m8l1/L1_S9-c.jpg" />
+    </resource>
+    <resource identifier="RES-59C82FDC-D5BE-4C3D-93A3-4DFD2221CD69" type="webcontent" href="m8l1/images/m8l1/L1_S9-c.png">
+      <file href="m8l1/images/m8l1/L1_S9-c.png" />
+    </resource>
+    <resource identifier="RES-EA37990C-FDF3-E329-810A-1427D0C62D90" type="webcontent" href="m8l1/images/m8l1/L1_S9-d.jpg">
+      <file href="m8l1/images/m8l1/L1_S9-d.jpg" />
+    </resource>
+    <resource identifier="RES-7F0976E8-2E92-45C7-41BA-C539F13E0135" type="webcontent" href="m8l1/images/m8l1/L1_S9-d.png">
+      <file href="m8l1/images/m8l1/L1_S9-d.png" />
+    </resource>
+    <resource identifier="RES-17DD67CB-AE86-6CD6-6865-A1F1DD2DA071" type="webcontent" href="m8l1/images/m8l1/L1_S9-e.jpg">
+      <file href="m8l1/images/m8l1/L1_S9-e.jpg" />
+    </resource>
+    <resource identifier="RES-63D310F2-054C-99F4-CD16-AF2BEB2E1FD6" type="webcontent" href="m8l1/images/m8l1/L1_S9-e.png">
+      <file href="m8l1/images/m8l1/L1_S9-e.png" />
+    </resource>
+    <resource identifier="RES-ED883F67-55CE-2D9B-A2E2-AEF05D92D045" type="webcontent" href="m8l1/images/m8l1/L1_S9-f.jpg">
+      <file href="m8l1/images/m8l1/L1_S9-f.jpg" />
+    </resource>
+    <resource identifier="RES-36F34217-C24B-544C-EDE4-C8662610A2E9" type="webcontent" href="m8l1/images/m8l1/L1_S9-f.png">
+      <file href="m8l1/images/m8l1/L1_S9-f.png" />
+    </resource>
+    <resource identifier="RES-6009ED40-7F22-F171-E004-F106FF1EB564" type="webcontent" href="m8l1/images/m8l1/L1_S9-g.png">
+      <file href="m8l1/images/m8l1/L1_S9-g.png" />
+    </resource>
+    <resource identifier="RES-CAB5FFCB-863A-5818-B938-45231A25E7B5" type="webcontent" href="m8l1/images/m8l1/L1_S9-h.png">
+      <file href="m8l1/images/m8l1/L1_S9-h.png" />
+    </resource>
+    <resource identifier="RES-0114734E-6D59-D29C-F6E8-D5830EB323E1" type="webcontent" href="m8l1/images/m8l1/L1_S9-i.png">
+      <file href="m8l1/images/m8l1/L1_S9-i.png" />
+    </resource>
+    <resource identifier="RES-1755D679-E87F-BCDE-90DF-B5F722FDD130" type="webcontent" href="m8l1/images/m8l1/L1_S9-j.png">
+      <file href="m8l1/images/m8l1/L1_S9-j.png" />
+    </resource>
+    <resource identifier="RES-AEFDCB0D-FE0D-931D-D717-BB9DF33D0C47" type="webcontent" href="m8l1/images/m8l1/L1_S9-k.png">
+      <file href="m8l1/images/m8l1/L1_S9-k.png" />
+    </resource>
+    <resource identifier="RES-753AE46C-1BBC-EBCE-EEEF-BF94F54DB088" type="webcontent" href="m8l1/images/m8l1/_L1_S14.png">
+      <file href="m8l1/images/m8l1/_L1_S14.png" />
+    </resource>
+    <resource identifier="RES-F350CCA4-CEDB-8DA9-E37F-86C822903390" type="webcontent" href="m8l1/images/m8l1/_L1_S3.jpg">
+      <file href="m8l1/images/m8l1/_L1_S3.jpg" />
+    </resource>
+    
+    <resource identifier="RES-30E16B44-14FF-5210-D2AE-04FBF9CC6E53" type="webcontent" href="m8l1/images/banner_logo.png">
+      <file href="m8l1/images/banner_logo.png" />
+    </resource>
+    <resource identifier="RES-550454EB-83F7-E4A7-EDCF-3C5C9D568A96" type="webcontent" href="m8l1/images/bullet - Copy.png">
+      <file href="m8l1/images/bullet - Copy.png" />
+    </resource>
+    <resource identifier="RES-044AD0D8-BF8B-406A-7EB1-4A5DA1C49987" type="webcontent" href="m8l1/images/bullet.png">
+      <file href="m8l1/images/bullet.png" />
+    </resource>
+    <resource identifier="RES-CA074A3D-95F5-0BBA-82D3-DB02DAFB3D41" type="webcontent" href="m8l1/images/bullet.psd">
+      <file href="m8l1/images/bullet.psd" />
+    </resource>
+    <resource identifier="RES-D45EC5FA-3609-9BD4-2B4D-8EFE288ABD25" type="webcontent" href="m8l1/images/help.png">
+      <file href="m8l1/images/help.png" />
+    </resource>
+    <resource identifier="RES-262BCA41-FC84-8CE1-3625-39E873FC5456" type="webcontent" href="m8l1/images/interactive_hand.png">
+      <file href="m8l1/images/interactive_hand.png" />
+    </resource>
+    <resource identifier="RES-CC5C5D96-169B-59C4-10CF-4D57E764D776" type="webcontent" href="m8l1/images/react_logo.svg">
+      <file href="m8l1/images/react_logo.svg" />
+    </resource>
+    <resource identifier="RES-1CAE408F-C3D7-C92C-A0ED-9CE5EF8A50AD" type="webcontent" href="m8l1/images/spacer.png">
+      <file href="m8l1/images/spacer.png" />
+    </resource>
+    <resource identifier="RES-43F847B5-9525-5319-6164-C9C37955EFB9" type="webcontent" href="m8l1/images/sprite_sheets.fla">
+      <file href="m8l1/images/sprite_sheets.fla" />
+    </resource>
+    <resource identifier="RES-E2910460-469F-AC66-367A-5B616876CB3E" type="webcontent" href="m8l1/js/libs/createjs-2015.11.26.min.js">
+      <file href="m8l1/js/libs/createjs-2015.11.26.min.js" />
+    </resource>
+    <resource identifier="RES-256290F8-654D-D404-90F2-92CF14429281" type="webcontent" href="m8l1/js/assignObjectPolyfill.js">
+      <file href="m8l1/js/assignObjectPolyfill.js" />
+    </resource>
+    <resource identifier="RES-E260E533-3F82-65EA-4532-AF982E62E4BD" type="webcontent" href="m8l1/js/AtlasPro_SCORM2004.js">
+      <file href="m8l1/js/AtlasPro_SCORM2004.js" />
+    </resource>
+    <resource identifier="RES-976590FA-8900-DE82-0810-DACF03A8DB17" type="webcontent" href="m8l1/static/css/2.3b8df3f8.chunk.css">
+      <file href="m8l1/static/css/2.3b8df3f8.chunk.css" />
+    </resource>
+    <resource identifier="RES-424272B5-4FDE-2091-D634-8DEC9B58B5A0" type="webcontent" href="m8l1/static/css/2.3b8df3f8.chunk.css.map">
+      <file href="m8l1/static/css/2.3b8df3f8.chunk.css.map" />
+    </resource>
+    <resource identifier="RES-ED0676E5-57BD-4035-CC05-A12D923A5552" type="webcontent" href="m8l1/static/css/main.b22cd536.chunk.css">
+      <file href="m8l1/static/css/main.b22cd536.chunk.css" />
+    </resource>
+    <resource identifier="RES-E16C26AD-2D6E-37DA-FCA4-2F511BA7EECC" type="webcontent" href="m8l1/static/css/main.b22cd536.chunk.css.map">
+      <file href="m8l1/static/css/main.b22cd536.chunk.css.map" />
+    </resource>
+    <resource identifier="RES-9D358D94-5289-8881-5228-4B073F2A4211" type="webcontent" href="m8l1/static/js/2.1db6d389.chunk.js">
+      <file href="m8l1/static/js/2.1db6d389.chunk.js" />
+    </resource>
+    <resource identifier="RES-6507000C-A51C-644A-D5A8-83100ADAD844" type="webcontent" href="m8l1/static/js/2.1db6d389.chunk.js.LICENSE.txt">
+      <file href="m8l1/static/js/2.1db6d389.chunk.js.LICENSE.txt" />
+    </resource>
+    <resource identifier="RES-BA9A0D48-7318-19FF-9D03-C3535C78D091" type="webcontent" href="m8l1/static/js/2.1db6d389.chunk.js.map">
+      <file href="m8l1/static/js/2.1db6d389.chunk.js.map" />
+    </resource>
+    <resource identifier="RES-B4C07233-FDE3-2412-333D-D193A2AA6D88" type="webcontent" href="m8l1/static/js/main.a465322c.chunk.js">
+      <file href="m8l1/static/js/main.a465322c.chunk.js" />
+    </resource>
+    <resource identifier="RES-D65A6319-B6E5-8214-07E4-4EF77FBC211A" type="webcontent" href="m8l1/static/js/main.a465322c.chunk.js.map">
+      <file href="m8l1/static/js/main.a465322c.chunk.js.map" />
+    </resource>
+    <resource identifier="RES-E180A4B5-4838-B934-C117-1A2EE5F62170" type="webcontent" href="m8l1/static/js/runtime-main.a59b2957.js">
+      <file href="m8l1/static/js/runtime-main.a59b2957.js" />
+    </resource>
+    <resource identifier="RES-043D7132-FBD4-35FE-8B39-38B27ABAA624" type="webcontent" href="m8l1/static/js/runtime-main.a59b2957.js.map">
+      <file href="m8l1/static/js/runtime-main.a59b2957.js.map" />
+    </resource>
+    <resource identifier="RES-F654C3F4-8460-725A-7A92-FDEC691D7463" type="webcontent" href="m8l1/static/media/icon-check.34cceadf.svg">
+      <file href="m8l1/static/media/icon-check.34cceadf.svg" />
+    </resource>
+    <resource identifier="RES-BA7D6A94-2487-E06E-58E6-094DBE1D55BC" type="webcontent" href="m8l1/static/media/icon-X.2442c0e6.svg">
+      <file href="m8l1/static/media/icon-X.2442c0e6.svg" />
+    </resource>
+    <resource identifier="RES-3FB4E8B7-E4C0-A45C-D1C8-222128202363" type="webcontent" href="m8l1/video/DSPRCE_Lesson02_Opening.mp4">
+      <file href="m8l1/video/DSPRCE_Lesson02_Opening.mp4" />
+    </resource>
+    <resource identifier="RES-00906394-8D53-CC04-C547-2A1C12879786" type="webcontent" href="m8l1/video/DSPRCE_Lesson03_Opening.mp4">
+      <file href="m8l1/video/DSPRCE_Lesson03_Opening.mp4" />
+    </resource>
+    <resource identifier="RES-F62BD8AB-2CB9-DAC1-D55E-63EC04C8F771" type="webcontent" href="m8l1/video/Intro_Video.mp4">
+      <file href="m8l1/video/Intro_Video.mp4" />
+    </resource>
+    <resource identifier="RES-68553406-5657-5E73-E28B-9509314D02A4" type="webcontent" href="m8l1/xtras/images/glossary_banner.png">
+      <file href="m8l1/xtras/images/glossary_banner.png" />
+    </resource>
+    <resource identifier="RES-B1EEEBC2-AB90-E4E8-54F0-6C7401C8896B" type="webcontent" href="m8l1/xtras/images/resources_banner.png">
+      <file href="m8l1/xtras/images/resources_banner.png" />
+    </resource>
+    <resource identifier="RES-DB5847E6-69A6-767F-007F-BC524169737E" type="webcontent" href="m8l1/xtras/resources/JP-3-50-U.pdf">
+      <file href="m8l1/xtras/resources/JP-3-50-U.pdf" />
+    </resource>
+    <resource identifier="RES-72DFD867-EC76-5C61-D01B-0C0074FB628C" type="webcontent" href="m8l1/xtras/resources/Reintegration_Trn_aid.pptx">
+      <file href="m8l1/xtras/resources/Reintegration_Trn_aid.pptx" />
+    </resource>
+    <resource identifier="RES-2A17C4B8-D29C-1423-F694-26467C86E2CD" type="webcontent" href="m8l1/xtras/glossary.html">
+      <file href="m8l1/xtras/glossary.html" />
+      <file href="m8l1/xtras/glossary_index.html" />
+      <file href="m8l1/xtras/style.css" />
+      <file href="m8l1/xtras/images/glossary_banner.png" />
+      <file href="m8l1/xtras/glossary_content.html" />
+    </resource>
+    <resource identifier="RES-47F53D79-4BBA-2384-1CFE-949ECC8C461B" type="webcontent" href="m8l1/xtras/glossary_content.html">
+      <file href="m8l1/xtras/glossary_content.html" />
+      <file href="m8l1/xtras/style.css" />
+    </resource>
+    <resource identifier="RES-5F564A3C-53EA-C32D-37DA-34D082B1B643" type="webcontent" href="m8l1/xtras/glossary_index.html">
+      <file href="m8l1/xtras/glossary_index.html" />
+      <file href="m8l1/xtras/style.css" />
+      <file href="m8l1/xtras/images/glossary_banner.png" />
+    </resource>
+    <resource identifier="RES-80DA551A-DB4E-407F-59F0-8966FF8F4C6C" type="webcontent" href="m8l1/xtras/resources.html">
+      <file href="m8l1/xtras/resources.html" />
+      <file href="m8l1/xtras/style.css" />
+      <file href="m8l1/xtras/images/resources_banner.png" />
+      <file href="m8l1/xtras/resources/JP-3-50-U.pdf" />
+    </resource>
+    <resource identifier="RES-D77B11B8-CACF-4796-E601-4A44C5734A4A" type="webcontent" href="m8l1/xtras/style.css">
+      <file href="m8l1/xtras/style.css" />
+    </resource>
+    <resource identifier="RES-A8EFD6B1-D3D5-440D-F516-09ADA569430C" type="webcontent" href="m8l1/asset-manifest.json">
+      <file href="m8l1/asset-manifest.json" />
+    </resource>
+    <resource identifier="RES-8545B082-3A70-781B-740F-440984C3E7CC" type="webcontent" href="m8l1/favicon.ico">
+      <file href="m8l1/favicon.ico" />
+    </resource>
+    <resource identifier="RES-D29E1D6E-D97B-0AE3-4C8A-D794D4AFB365" type="webcontent" href="m8l1/index.html">
+      <file href="m8l1/index.html" />
+      <file href="m8l1/manifest.json" />
+      <file href="m8l1/favicon.ico" />
+      <file href="m8l1/fonts/fonts.css" />
+      <file href="m8l1/static/css/2.3b8df3f8.chunk.css" />
+      <file href="m8l1/static/css/main.b22cd536.chunk.css" />
+      <file href="m8l1/js/AtlasPro_SCORM2004.js" />
+      <file href="m8l1/static/js/2.1db6d389.chunk.js" />
+      <file href="m8l1/static/js/main.a465322c.chunk.js" />
+    </resource>
+    <resource identifier="RES-5DE6AD85-2B2D-0206-A538-7CAC6D23B0CE" type="webcontent" href="m8l1/manifest.json">
+      <file href="m8l1/manifest.json" />
+    </resource>
+    <resource identifier="RES-8FC073AA-8EBA-89DD-A361-7C4C80EC51DB" type="webcontent" href="m8l1/precache-manifest.0896a0c4564b63007b900f2a06347e4d.js">
+      <file href="m8l1/precache-manifest.0896a0c4564b63007b900f2a06347e4d.js" />
+    </resource>
+    <resource identifier="RES-E4C48C01-B879-C35A-E8C7-E0315E605B11" type="webcontent" href="m8l1/service-worker.js">
+      <file href="m8l1/service-worker.js" />
+    </resource>
+    
+    
+    
+    
+    <resource identifier="RES-DEE4C900-FC4B-2605-349A-3CC089CE9972" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-02A_Lesson Purpose.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-02A_Lesson Purpose.mp3" />
+    </resource>
+    <resource identifier="RES-FB715C11-C363-A1D5-5001-FB7557218F40" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-02B_Lesson Objectives.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-02B_Lesson Objectives.mp3" />
+    </resource>
+    <resource identifier="RES-6B6E66A1-7B15-CFB7-05F5-DA1643F1BD69" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-03A-C_US Post Country Team.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-03A-C_US Post Country Team.mp3" />
+    </resource>
+    <resource identifier="RES-2C5CCACD-E34B-43AE-EB51-6711AFD6A373" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-04A-O_EAC.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-04A-O_EAC.mp3" />
+    </resource>
+    <resource identifier="RES-A3610623-8B2D-C6C9-B106-49A72B6CA051" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-05A-D_EAC.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-05A-D_EAC.mp3" />
+    </resource>
+    <resource identifier="RES-E178A294-055C-3EC0-DDE8-066A54C367C6" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-06A-B_EAC Responsiblities.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-06A-B_EAC Responsiblities.mp3" />
+    </resource>
+    <resource identifier="RES-58A7D18B-32A3-0616-868B-5E146BE8240D" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-07A-D_US Post Core.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-07A-D_US Post Core.mp3" />
+    </resource>
+    <resource identifier="RES-ED6E73AA-F03D-89A0-86F4-19579192BC37" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-08A-E_RSO.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-08A-E_RSO.mp3" />
+    </resource>
+    <resource identifier="RES-7EF31E6D-B40D-5371-3584-6BA324247599" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-10A-D_PRWG.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-10A-D_PRWG.mp3" />
+    </resource>
+    <resource identifier="RES-B0FFF185-23FB-3143-A7B4-2038D48A5D29" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-11_Knowledge Check.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-11_Knowledge Check.mp3" />
+    </resource>
+    <resource identifier="RES-213B2B75-7CB3-B48C-D396-77A652933162" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-13A-C_SDO.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-13A-C_SDO.mp3" />
+    </resource>
+    <resource identifier="RES-6353514D-D848-A89F-C7C9-7B44694B8164" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-14_SDO Responsibilities.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-14_SDO Responsibilities.mp3" />
+    </resource>
+    <resource identifier="RES-3E403A56-E810-55CD-2B83-BE4D64E8353F" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-15_SDO Continued.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-15_SDO Continued.mp3" />
+    </resource>
+    <resource identifier="RES-775C96B8-EF85-BF17-E201-CA0CB9892DD9" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-16A-C_SDO Relationships.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-16A-C_SDO Relationships.mp3" />
+    </resource>
+    <resource identifier="RES-91CE4CA0-7996-C52D-4D00-0FA31949950F" type="webcontent" href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-17_DAO.mp3">
+      <file href="m9l1/audio/m9l1/Lesson_2_Audio_Mono/Slide-17_DAO.mp3" />
+    </resource>
+    <resource identifier="RES-CD21F174-EC36-C832-784E-4657CCAE6E4A" type="webcontent" href="m9l1/audio/m9l1/m9l1f01.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f01.mp3" />
+    </resource>
+    <resource identifier="RES-F4AB2010-0CA5-E9B0-C0AF-5C21B51224A1" type="webcontent" href="m9l1/audio/m9l1/m9l1f02.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f02.mp3" />
+    </resource>
+    <resource identifier="RES-894BB08D-0BAC-551B-6CF5-CF9D981A564A" type="webcontent" href="m9l1/audio/m9l1/m9l1f03.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f03.mp3" />
+    </resource>
+    <resource identifier="RES-3408CC27-F39F-597F-EDD6-3D1257DD7B33" type="webcontent" href="m9l1/audio/m9l1/m9l1f04.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f04.mp3" />
+    </resource>
+    <resource identifier="RES-9F4D5D4A-8B62-3390-23E4-B1E624CF0393" type="webcontent" href="m9l1/audio/m9l1/m9l1f05.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f05.mp3" />
+    </resource>
+    <resource identifier="RES-E8077BFC-0035-C86E-A9DA-260CE173CE42" type="webcontent" href="m9l1/audio/m9l1/m9l1f06.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f06.mp3" />
+    </resource>
+    <resource identifier="RES-4ECFE9D0-0A9C-B620-2698-0B791D0EE09F" type="webcontent" href="m9l1/audio/m9l1/m9l1f07.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f07.mp3" />
+    </resource>
+    <resource identifier="RES-0A7A69D9-1F35-2CFD-FBB5-BC301B64D307" type="webcontent" href="m9l1/audio/m9l1/m9l1f08.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f08.mp3" />
+    </resource>
+    <resource identifier="RES-3ACCC7F7-47CB-69B1-68E5-B43E83778634" type="webcontent" href="m9l1/audio/m9l1/m9l1f09.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f09.mp3" />
+    </resource>
+    <resource identifier="RES-F2922D27-4A84-60B1-7AC6-323A0B765199" type="webcontent" href="m9l1/audio/m9l1/m9l1f10.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f10.mp3" />
+    </resource>
+    <resource identifier="RES-63F6F82D-8CFF-7B08-D9F9-7D2BC51A80CB" type="webcontent" href="m9l1/audio/m9l1/m9l1f11.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f11.mp3" />
+    </resource>
+    <resource identifier="RES-B863BA95-7E10-8C9D-3D0F-DCAABD812848" type="webcontent" href="m9l1/audio/m9l1/m9l1f12.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f12.mp3" />
+    </resource>
+    <resource identifier="RES-9E6BFF5C-7FB0-4DB3-FA89-26D08A88964A" type="webcontent" href="m9l1/audio/m9l1/m9l1f13.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f13.mp3" />
+    </resource>
+    <resource identifier="RES-AECD19FB-5796-3FC4-217C-AAB1F556ACAC" type="webcontent" href="m9l1/audio/m9l1/m9l1f14.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f14.mp3" />
+    </resource>
+    <resource identifier="RES-03D661EF-DC83-D969-5ABB-02E3B5EABAF7" type="webcontent" href="m9l1/audio/m9l1/m9l1f15.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f15.mp3" />
+    </resource>
+    <resource identifier="RES-A8EEDD9C-8A92-442C-A5B9-B3DACC65F621" type="webcontent" href="m9l1/audio/m9l1/m9l1f16.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f16.mp3" />
+    </resource>
+    <resource identifier="RES-1E66DC7F-0CEF-605D-FB81-4DA3A0166A4E" type="webcontent" href="m9l1/audio/m9l1/m9l1f17.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f17.mp3" />
+    </resource>
+    <resource identifier="RES-0AF8DF28-1C38-AE1A-BD3D-7E8C81FBB898" type="webcontent" href="m9l1/audio/m9l1/m9l1f18.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f18.mp3" />
+    </resource>
+    <resource identifier="RES-318D5FE3-2FF0-B967-1E5B-DDF1F02D4E09" type="webcontent" href="m9l1/audio/m9l1/m9l1f19.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f19.mp3" />
+    </resource>
+    <resource identifier="RES-C053873A-BD63-943A-F0E3-BB4D4A53449F" type="webcontent" href="m9l1/audio/m9l1/m9l1f20.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f20.mp3" />
+    </resource>
+    <resource identifier="RES-C5E3ACE3-BAB2-5723-AE03-073BF3974E64" type="webcontent" href="m9l1/audio/m9l1/m9l1f21.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f21.mp3" />
+    </resource>
+    <resource identifier="RES-356EEEE7-48DC-A544-7B1C-1F1BEF13340A" type="webcontent" href="m9l1/audio/m9l1/m9l1f22.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f22.mp3" />
+    </resource>
+    <resource identifier="RES-872A6E58-3D9B-EFC4-DF7C-34831FA89800" type="webcontent" href="m9l1/audio/m9l1/m9l1f23.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f23.mp3" />
+    </resource>
+    <resource identifier="RES-BA00B9A1-6455-D6A3-C251-B7A99D1AE6C6" type="webcontent" href="m9l1/audio/m9l1/m9l1f24.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f24.mp3" />
+    </resource>
+    <resource identifier="RES-779B5F5B-41E4-2101-8D27-222C1DB22B01" type="webcontent" href="m9l1/audio/m9l1/m9l1f25.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f25.mp3" />
+    </resource>
+    <resource identifier="RES-6B50C984-E791-1230-497D-7A58404AC913" type="webcontent" href="m9l1/audio/m9l1/m9l1f26.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f26.mp3" />
+    </resource>
+    <resource identifier="RES-B6DAB400-6DC1-5055-1F95-AA3A86B270B1" type="webcontent" href="m9l1/audio/m9l1/m9l1f27.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f27.mp3" />
+    </resource>
+    <resource identifier="RES-247C5DF6-4D02-355B-9C0B-08D253603036" type="webcontent" href="m9l1/audio/m9l1/m9l1f28.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f28.mp3" />
+    </resource>
+    <resource identifier="RES-415211D1-6E29-CF7B-7ED1-C65ADF7F0394" type="webcontent" href="m9l1/audio/m9l1/m9l1f29.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f29.mp3" />
+    </resource>
+    <resource identifier="RES-27F6DDCB-05CC-C453-4E73-B95A89051016" type="webcontent" href="m9l1/audio/m9l1/m9l1f30.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f30.mp3" />
+    </resource>
+    <resource identifier="RES-39421D55-ADA3-80BF-A2AC-068537A53992" type="webcontent" href="m9l1/audio/m9l1/m9l1f31.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f31.mp3" />
+    </resource>
+    <resource identifier="RES-97E04DCB-4683-E253-D0E1-2D500B6A510B" type="webcontent" href="m9l1/audio/m9l1/m9l1f32.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f32.mp3" />
+    </resource>
+    <resource identifier="RES-4A0C8B9E-4670-43EC-8DF9-99A7E86EC7CA" type="webcontent" href="m9l1/audio/m9l1/m9l1f33.mp3">
+      <file href="m9l1/audio/m9l1/m9l1f33.mp3" />
+    </resource>
+    <resource identifier="RES-91E63999-44D1-128D-300A-85653C26B319" type="webcontent" href="m9l1/audio/m9l1/_m9l1f06.mp3">
+      <file href="m9l1/audio/m9l1/_m9l1f06.mp3" />
+    </resource>
+    <resource identifier="RES-1EA57783-7AAA-4C60-E270-93F3EB8151C7" type="webcontent" href="m9l1/audio/m9l1/_next_lesson_audio.mp3">
+      <file href="m9l1/audio/m9l1/_next_lesson_audio.mp3" />
+    </resource>
+    <resource identifier="RES-4955A427-18F7-9C03-061C-AC6B3E73737D" type="webcontent" href="m9l1/audio/m9l1/_Word_And_x7.mp3">
+      <file href="m9l1/audio/m9l1/_Word_And_x7.mp3" />
+    </resource>
+    <resource identifier="RES-8F3A7FC5-381E-3EF6-849B-9A3DA9768AC6" type="webcontent" href="m9l1/audio/AudioPlaceholder.mp3">
+      <file href="m9l1/audio/AudioPlaceholder.mp3" />
+    </resource>
+    <resource identifier="RES-CA8E2750-DFAA-C7E5-ADEA-54C17E8FF5CA" type="webcontent" href="m9l1/fonts/Montserrat/Montserrat-Regular.eot">
+      <file href="m9l1/fonts/Montserrat/Montserrat-Regular.eot" />
+    </resource>
+    <resource identifier="RES-DCA8936D-E494-9E7B-87CD-7C0376D954E5" type="webcontent" href="m9l1/fonts/Montserrat/Montserrat-Regular.ttf">
+      <file href="m9l1/fonts/Montserrat/Montserrat-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-5C724F54-7805-F8E2-76DC-E74B072208B7" type="webcontent" href="m9l1/fonts/Montserrat/Montserrat-Regular.woff">
+      <file href="m9l1/fonts/Montserrat/Montserrat-Regular.woff" />
+    </resource>
+    <resource identifier="RES-097128D1-61D6-5B63-4035-EB41C8F7BE71" type="webcontent" href="m9l1/fonts/Montserrat/Montserrat-Regular.woff2">
+      <file href="m9l1/fonts/Montserrat/Montserrat-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-02972513-ADC8-A246-316B-86177B1740CF" type="webcontent" href="m9l1/fonts/Oswald/static/Oswald-Bold.ttf">
+      <file href="m9l1/fonts/Oswald/static/Oswald-Bold.ttf" />
+    </resource>
+    <resource identifier="RES-05F0863A-FB43-6D79-14D2-04E2DE6AE846" type="webcontent" href="m9l1/fonts/Oswald/static/Oswald-ExtraLight.ttf">
+      <file href="m9l1/fonts/Oswald/static/Oswald-ExtraLight.ttf" />
+    </resource>
+    <resource identifier="RES-22DCEEB9-1991-CB98-12C8-3F27A76B828E" type="webcontent" href="m9l1/fonts/Oswald/static/Oswald-Light.ttf">
+      <file href="m9l1/fonts/Oswald/static/Oswald-Light.ttf" />
+    </resource>
+    <resource identifier="RES-D403F76D-45BE-FA04-073B-48EF0824D860" type="webcontent" href="m9l1/fonts/Oswald/static/Oswald-Medium.ttf">
+      <file href="m9l1/fonts/Oswald/static/Oswald-Medium.ttf" />
+    </resource>
+    <resource identifier="RES-EC11908C-8565-C8F8-109C-94671CCA870D" type="webcontent" href="m9l1/fonts/Oswald/static/Oswald-Regular.ttf">
+      <file href="m9l1/fonts/Oswald/static/Oswald-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-D2656BF3-2883-8BDE-70B2-9AEC2D032711" type="webcontent" href="m9l1/fonts/Oswald/static/Oswald-SemiBold.ttf">
+      <file href="m9l1/fonts/Oswald/static/Oswald-SemiBold.ttf" />
+    </resource>
+    <resource identifier="RES-5263DF88-0220-7738-1F90-3504AEC92BF2" type="webcontent" href="m9l1/fonts/Oswald/OFL.txt">
+      <file href="m9l1/fonts/Oswald/OFL.txt" />
+    </resource>
+    <resource identifier="RES-22DF8FE4-F3B0-7111-5BB3-16EF00CEFB9D" type="webcontent" href="m9l1/fonts/Oswald/Oswald-VariableFont_wght.svg">
+      <file href="m9l1/fonts/Oswald/Oswald-VariableFont_wght.svg" />
+    </resource>
+    <resource identifier="RES-C9C0278A-C99C-BAF6-1956-F89D610BA2D8" type="webcontent" href="m9l1/fonts/Oswald/Oswald-VariableFont_wght.ttf">
+      <file href="m9l1/fonts/Oswald/Oswald-VariableFont_wght.ttf" />
+    </resource>
+    <resource identifier="RES-30B91729-A308-BC06-5B8C-4ACE4A940641" type="webcontent" href="m9l1/fonts/Oswald/Oswald-VariableFont_wght.woff">
+      <file href="m9l1/fonts/Oswald/Oswald-VariableFont_wght.woff" />
+    </resource>
+    <resource identifier="RES-713812C4-D03F-54F1-46CE-0D26AE448878" type="webcontent" href="m9l1/fonts/Oswald/Oswald-VariableFont_wght.woff2">
+      <file href="m9l1/fonts/Oswald/Oswald-VariableFont_wght.woff2" />
+    </resource>
+    <resource identifier="RES-D74F90B9-AF3B-2B83-B64C-788EAE92E339" type="webcontent" href="m9l1/fonts/Oswald/Oswald.eot">
+      <file href="m9l1/fonts/Oswald/Oswald.eot" />
+    </resource>
+    <resource identifier="RES-16F8E23F-D3BE-A197-3110-60836A864717" type="webcontent" href="m9l1/fonts/Oswald/README">
+      <file href="m9l1/fonts/Oswald/README" />
+    </resource>
+    <resource identifier="RES-90BD3645-2D43-C8FD-5685-7DD01DB020C5" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.eot">
+      <file href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.eot" />
+    </resource>
+    <resource identifier="RES-078F7C7C-8065-0736-0D57-14B81AA55C55" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.svg">
+      <file href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.svg" />
+    </resource>
+    <resource identifier="RES-D316B73C-EA12-CA7A-4A2A-00F23250F91E" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.ttf">
+      <file href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-54474B07-20C4-7694-E9C9-F642F0A129A1" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.woff">
+      <file href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.woff" />
+    </resource>
+    <resource identifier="RES-F697D8B1-9D26-5DAA-4B14-DFDB4623D09E" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.woff2">
+      <file href="m9l1/fonts/Roboto/Roboto-Condensed-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-8E8F3211-9379-0146-7B42-E64C1E4A729E" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Regular.eot">
+      <file href="m9l1/fonts/Roboto/Roboto-Regular.eot" />
+    </resource>
+    <resource identifier="RES-92FF8829-6301-526F-FB56-220D77E802EF" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Regular.svg">
+      <file href="m9l1/fonts/Roboto/Roboto-Regular.svg" />
+    </resource>
+    <resource identifier="RES-C3917138-A52B-58A1-DB7C-F2016715E977" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Regular.ttf">
+      <file href="m9l1/fonts/Roboto/Roboto-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-49FC1B38-4F17-DC79-C2C6-975E1D378B74" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Regular.woff">
+      <file href="m9l1/fonts/Roboto/Roboto-Regular.woff" />
+    </resource>
+    <resource identifier="RES-47204A4C-FE54-329B-0BAB-4591D7BAA74B" type="webcontent" href="m9l1/fonts/Roboto/Roboto-Regular.woff2">
+      <file href="m9l1/fonts/Roboto/Roboto-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-5C46D0E4-D1C3-2BE4-1BAD-2C11A5C6D8B1" type="webcontent" href="m9l1/fonts/fonts.css">
+      <file href="m9l1/fonts/fonts.css" />
+    </resource>
+    <resource identifier="RES-3303B929-190A-28FA-6C40-89BA547165DA" type="webcontent" href="m9l1/images/m9l1/altered/up 10px/L2_S7-a.png">
+      <file href="m9l1/images/m9l1/altered/up 10px/L2_S7-a.png" />
+    </resource>
+    <resource identifier="RES-C519A0B8-C3D1-9B95-8A2B-6F6B43FA94B7" type="webcontent" href="m9l1/images/m9l1/altered/up 10px/L2_S7-b.png">
+      <file href="m9l1/images/m9l1/altered/up 10px/L2_S7-b.png" />
+    </resource>
+    <resource identifier="RES-CD11B81F-346A-68BA-B940-9E1B0F9E2374" type="webcontent" href="m9l1/images/m9l1/altered/up 10px/L2_S7-c.png">
+      <file href="m9l1/images/m9l1/altered/up 10px/L2_S7-c.png" />
+    </resource>
+    <resource identifier="RES-9B42104D-AF75-4FE4-A27C-C3F906464081" type="webcontent" href="m9l1/images/m9l1/altered/up 10px/L2_S7-d.png">
+      <file href="m9l1/images/m9l1/altered/up 10px/L2_S7-d.png" />
+    </resource>
+    <resource identifier="RES-B55F079B-9182-F50B-DD06-D0E29CFD402A" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S10-a.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S10-a.png" />
+    </resource>
+    <resource identifier="RES-98113236-4475-29AC-71C8-2E20ADFBD98C" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S10-b.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S10-b.png" />
+    </resource>
+    <resource identifier="RES-8AD1E165-17FA-DD00-938A-B6D36230DCFC" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S10-c.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S10-c.png" />
+    </resource>
+    <resource identifier="RES-F1D0E597-7353-B26D-C2EE-B6BBE4D7E125" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S10-d.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S10-d.png" />
+    </resource>
+    <resource identifier="RES-06A9CE57-4BE3-1D9D-EFBE-368176C767AD" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-a.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-a.png" />
+    </resource>
+    <resource identifier="RES-BD30C420-816D-7CF6-9115-A684E7BEB41A" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-b.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-b.png" />
+    </resource>
+    <resource identifier="RES-9A8D5114-FDEA-FC92-BA0E-9DF1A91769A3" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-c.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-c.png" />
+    </resource>
+    <resource identifier="RES-A7E46900-6572-B6B1-9106-3F988E3DCF02" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-d.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-d.png" />
+    </resource>
+    <resource identifier="RES-E0284CEE-4CCE-49FB-4E13-741A32E789C2" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-e.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-e.png" />
+    </resource>
+    <resource identifier="RES-FD57C455-AA40-81CC-4D95-A33C473C912A" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-f.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-f.png" />
+    </resource>
+    <resource identifier="RES-06D76D99-88DF-13E1-628B-4CB8C53B7E05" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-g.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-g.png" />
+    </resource>
+    <resource identifier="RES-E7A3170D-C5F7-EE41-F885-79442307DF4E" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-h.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-h.png" />
+    </resource>
+    <resource identifier="RES-9A492EFD-1379-ECAC-993F-6687787DFD90" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-i.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-i.png" />
+    </resource>
+    <resource identifier="RES-9E03F326-C02D-E7D4-4DB1-D10BE7423F0D" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-j.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-j.png" />
+    </resource>
+    <resource identifier="RES-B4D5D19B-36EC-8167-1D4C-8D092904B66E" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-k.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-k.png" />
+    </resource>
+    <resource identifier="RES-A9DF362E-DD9F-B967-BB77-C4C778921603" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-l.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-l.png" />
+    </resource>
+    <resource identifier="RES-DCDA8C51-1F5F-360E-AE71-1CD96B4268BE" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-m.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-m.png" />
+    </resource>
+    <resource identifier="RES-2CDED271-D951-B786-D068-DBE53404155A" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-n.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-n.png" />
+    </resource>
+    <resource identifier="RES-68FC87EC-31E8-C91B-8ADF-D00CE15D0B53" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S4-o.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S4-o.png" />
+    </resource>
+    <resource identifier="RES-DA7B3923-DE94-F317-3371-4F4A018FBBA4" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S8-a.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S8-a.png" />
+    </resource>
+    <resource identifier="RES-5F5F3AC3-467A-33FB-7E1E-41663D92DC64" type="webcontent" href="m9l1/images/m9l1/altered/up 20px/L2_S8-b.png">
+      <file href="m9l1/images/m9l1/altered/up 20px/L2_S8-b.png" />
+    </resource>
+    <resource identifier="RES-D0F6C681-9ABA-EF52-AF3D-5C7CCE18B71A" type="webcontent" href="m9l1/images/m9l1/altered/L2_S9-b.png">
+      <file href="m9l1/images/m9l1/altered/L2_S9-b.png" />
+    </resource>
+    <resource identifier="RES-FBB49FE8-3DB8-341E-496E-CC0056FCBF45" type="webcontent" href="m9l1/images/m9l1/altered/L2_S9-c.png">
+      <file href="m9l1/images/m9l1/altered/L2_S9-c.png" />
+    </resource>
+    <resource identifier="RES-F777C70F-B906-182B-5B73-BE5AF616A6AF" type="webcontent" href="m9l1/images/m9l1/altered/L2_S9-c.psd">
+      <file href="m9l1/images/m9l1/altered/L2_S9-c.psd" />
+    </resource>
+    <resource identifier="RES-06704386-8028-9B38-ECA6-E5F274FB005E" type="webcontent" href="m9l1/images/m9l1/_old/L2_S13-c.png">
+      <file href="m9l1/images/m9l1/_old/L2_S13-c.png" />
+    </resource>
+    <resource identifier="RES-E6317383-BE5C-4C58-D4CC-F7830CEDA1CA" type="webcontent" href="m9l1/images/m9l1/_old/L2_S13-d.png">
+      <file href="m9l1/images/m9l1/_old/L2_S13-d.png" />
+    </resource>
+    <resource identifier="RES-4A453B0D-040D-3F03-07BA-89D4D072397E" type="webcontent" href="m9l1/images/m9l1/_old/L2_S13-e.png">
+      <file href="m9l1/images/m9l1/_old/L2_S13-e.png" />
+    </resource>
+    <resource identifier="RES-2E3A1499-4CEC-EAC3-AE3C-51C069C17898" type="webcontent" href="m9l1/images/m9l1/_old/L2_S17-SDOR-a.jpg">
+      <file href="m9l1/images/m9l1/_old/L2_S17-SDOR-a.jpg" />
+    </resource>
+    <resource identifier="RES-B04293A9-1682-5C05-6EE2-44E48627AFB8" type="webcontent" href="m9l1/images/m9l1/_old/L2_S17-SDOR-b.jpg">
+      <file href="m9l1/images/m9l1/_old/L2_S17-SDOR-b.jpg" />
+    </resource>
+    <resource identifier="RES-7FA2EA4C-69D2-44CF-F4CC-92491164E5D4" type="webcontent" href="m9l1/images/m9l1/_old/L2_S17-SDOR-c.jpg">
+      <file href="m9l1/images/m9l1/_old/L2_S17-SDOR-c.jpg" />
+    </resource>
+    <resource identifier="RES-330615C7-48EF-01BC-9C2A-6733881A1006" type="webcontent" href="m9l1/images/m9l1/_old/L2_S22-a.png">
+      <file href="m9l1/images/m9l1/_old/L2_S22-a.png" />
+    </resource>
+    <resource identifier="RES-9B591C0E-DB82-979F-63A6-6DD800BC9FFB" type="webcontent" href="m9l1/images/m9l1/_old/L2_S22-b.png">
+      <file href="m9l1/images/m9l1/_old/L2_S22-b.png" />
+    </resource>
+    <resource identifier="RES-07185934-DB85-9FC5-4BC7-69A4336E3553" type="webcontent" href="m9l1/images/m9l1/_old/L2_S22-c.png">
+      <file href="m9l1/images/m9l1/_old/L2_S22-c.png" />
+    </resource>
+    <resource identifier="RES-5AB58661-CAB5-7503-C33B-87048364C7FC" type="webcontent" href="m9l1/images/m9l1/_old/L2_S22-d.png">
+      <file href="m9l1/images/m9l1/_old/L2_S22-d.png" />
+    </resource>
+    <resource identifier="RES-50F47806-5707-4BA3-15A2-FFE9A955632C" type="webcontent" href="m9l1/images/m9l1/_old/L2_S3-a.png">
+      <file href="m9l1/images/m9l1/_old/L2_S3-a.png" />
+    </resource>
+    <resource identifier="RES-B8A59C30-A7DD-CD2F-EA46-05330759ABB2" type="webcontent" href="m9l1/images/m9l1/_old/L2_S3-b.png">
+      <file href="m9l1/images/m9l1/_old/L2_S3-b.png" />
+    </resource>
+    <resource identifier="RES-1DD53B03-4316-9964-56EB-DE1D4E4D736D" type="webcontent" href="m9l1/images/m9l1/_old/L2_S3-c.png">
+      <file href="m9l1/images/m9l1/_old/L2_S3-c.png" />
+    </resource>
+    <resource identifier="RES-A68ECAD2-6906-762D-838E-67D5FCCC6D3C" type="webcontent" href="m9l1/images/m9l1/_old/L2_S3-d.png">
+      <file href="m9l1/images/m9l1/_old/L2_S3-d.png" />
+    </resource>
+    <resource identifier="RES-B07C98F3-8E4D-23C5-58B9-62DF6D0A8EB4" type="webcontent" href="m9l1/images/m9l1/_old/L2_S9-a.png">
+      <file href="m9l1/images/m9l1/_old/L2_S9-a.png" />
+    </resource>
+    <resource identifier="RES-8FCE3187-2541-4BFC-4A97-AB6340DAF3F0" type="webcontent" href="m9l1/images/m9l1/_old/L2_S9-b.png">
+      <file href="m9l1/images/m9l1/_old/L2_S9-b.png" />
+    </resource>
+    <resource identifier="RES-A73EEB36-E85B-5D6B-9ACA-8BD4B101834F" type="webcontent" href="m9l1/images/m9l1/_old/L2_S9-c.png">
+      <file href="m9l1/images/m9l1/_old/L2_S9-c.png" />
+    </resource>
+    <resource identifier="RES-7E271A5F-C8BD-69A6-D87D-D2F1B485F648" type="webcontent" href="m9l1/images/m9l1/dummy_graphic.jpg">
+      <file href="m9l1/images/m9l1/dummy_graphic.jpg" />
+    </resource>
+    <resource identifier="RES-AA76F8FF-155C-7143-6F33-766F56DDD5D7" type="webcontent" href="m9l1/images/m9l1/L2_S1.png">
+      <file href="m9l1/images/m9l1/L2_S1.png" />
+    </resource>
+    <resource identifier="RES-057154F0-AB8F-B1F8-D612-986FFB24908F" type="webcontent" href="m9l1/images/m9l1/L2_S10-a.png">
+      <file href="m9l1/images/m9l1/L2_S10-a.png" />
+    </resource>
+    <resource identifier="RES-6A05586E-81B3-C82F-D23A-6CDDF8DF7488" type="webcontent" href="m9l1/images/m9l1/L2_S10-b.png">
+      <file href="m9l1/images/m9l1/L2_S10-b.png" />
+    </resource>
+    <resource identifier="RES-D167F753-2E35-9026-C92B-51F1AFEC1B3D" type="webcontent" href="m9l1/images/m9l1/L2_S10-c.png">
+      <file href="m9l1/images/m9l1/L2_S10-c.png" />
+    </resource>
+    <resource identifier="RES-470370DC-A884-C60B-EADE-CE12F83CDF07" type="webcontent" href="m9l1/images/m9l1/L2_S10-d.png">
+      <file href="m9l1/images/m9l1/L2_S10-d.png" />
+    </resource>
+    <resource identifier="RES-C2FAC76A-AA1D-0F49-E7DF-6FFE876859F5" type="webcontent" href="m9l1/images/m9l1/L2_S13-a.png">
+      <file href="m9l1/images/m9l1/L2_S13-a.png" />
+    </resource>
+    <resource identifier="RES-D63A8E96-3DE3-F746-CF1F-FCA2CF5FEDFD" type="webcontent" href="m9l1/images/m9l1/L2_S13-b.png">
+      <file href="m9l1/images/m9l1/L2_S13-b.png" />
+    </resource>
+    <resource identifier="RES-97559445-054C-3521-DE68-1482C5080AFB" type="webcontent" href="m9l1/images/m9l1/L2_S13-c.png">
+      <file href="m9l1/images/m9l1/L2_S13-c.png" />
+    </resource>
+    <resource identifier="RES-763E2744-EE92-7FC9-3803-0FA208195229" type="webcontent" href="m9l1/images/m9l1/L2_S13-d.png">
+      <file href="m9l1/images/m9l1/L2_S13-d.png" />
+    </resource>
+    <resource identifier="RES-753CD383-0BC7-CAF5-B8AA-E03C18374D32" type="webcontent" href="m9l1/images/m9l1/L2_S13-e.png">
+      <file href="m9l1/images/m9l1/L2_S13-e.png" />
+    </resource>
+    <resource identifier="RES-75206C04-EEE1-C649-409E-1D910A3E2E4D" type="webcontent" href="m9l1/images/m9l1/L2_S14-a.png">
+      <file href="m9l1/images/m9l1/L2_S14-a.png" />
+    </resource>
+    <resource identifier="RES-CC96B72C-F88D-AE3C-F858-C0599485DD17" type="webcontent" href="m9l1/images/m9l1/L2_S14-b.png">
+      <file href="m9l1/images/m9l1/L2_S14-b.png" />
+    </resource>
+    <resource identifier="RES-4DB17976-E009-97EE-A8DF-3C918D0734CA" type="webcontent" href="m9l1/images/m9l1/L2_S14-c.png">
+      <file href="m9l1/images/m9l1/L2_S14-c.png" />
+    </resource>
+    <resource identifier="RES-89A4C843-134A-A5EB-AB13-97F9E3AFF36A" type="webcontent" href="m9l1/images/m9l1/L2_S15-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S15-a.jpg" />
+    </resource>
+    <resource identifier="RES-51A6999E-D378-174D-BC0D-CB22B377F65D" type="webcontent" href="m9l1/images/m9l1/L2_S15-b.jpg">
+      <file href="m9l1/images/m9l1/L2_S15-b.jpg" />
+    </resource>
+    <resource identifier="RES-0407EB74-3962-F1E2-0A7E-1C32B422207B" type="webcontent" href="m9l1/images/m9l1/L2_S15-c.jpg">
+      <file href="m9l1/images/m9l1/L2_S15-c.jpg" />
+    </resource>
+    <resource identifier="RES-70CCD549-EF41-A75C-9EC3-D77A9B1F3BFF" type="webcontent" href="m9l1/images/m9l1/L2_S15-SDO-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S15-SDO-a.jpg" />
+    </resource>
+    <resource identifier="RES-0BC65ACF-3324-5335-4CF9-EB5F3DCABE10" type="webcontent" href="m9l1/images/m9l1/L2_S15-SDO-b.jpg">
+      <file href="m9l1/images/m9l1/L2_S15-SDO-b.jpg" />
+    </resource>
+    <resource identifier="RES-EAEEC233-57CD-FCCD-44B0-1B4EF4AE1235" type="webcontent" href="m9l1/images/m9l1/L2_S15-SDO-c.jpg">
+      <file href="m9l1/images/m9l1/L2_S15-SDO-c.jpg" />
+    </resource>
+    <resource identifier="RES-DC9E444F-2413-DB25-097C-06A9127E51EA" type="webcontent" href="m9l1/images/m9l1/L2_S17-SDOR-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S17-SDOR-a.jpg" />
+    </resource>
+    <resource identifier="RES-DDA434E6-7150-1616-6D02-46C7F8C09CC7" type="webcontent" href="m9l1/images/m9l1/L2_S17-SDOR-b.jpg">
+      <file href="m9l1/images/m9l1/L2_S17-SDOR-b.jpg" />
+    </resource>
+    <resource identifier="RES-868A57E1-B275-460A-F6B8-A8A97B7EAF2F" type="webcontent" href="m9l1/images/m9l1/L2_S17-SDOR-c.jpg">
+      <file href="m9l1/images/m9l1/L2_S17-SDOR-c.jpg" />
+    </resource>
+    <resource identifier="RES-F422B162-A485-0DFA-4357-0BCE6AAA80FA" type="webcontent" href="m9l1/images/m9l1/L2_S18-a.png">
+      <file href="m9l1/images/m9l1/L2_S18-a.png" />
+    </resource>
+    <resource identifier="RES-951F061B-0516-9285-CDE4-D2FAE3D45789" type="webcontent" href="m9l1/images/m9l1/L2_S18-b.png">
+      <file href="m9l1/images/m9l1/L2_S18-b.png" />
+    </resource>
+    <resource identifier="RES-2539AF63-5C44-4507-F376-0DEAA2C480A1" type="webcontent" href="m9l1/images/m9l1/L2_S18-c.png">
+      <file href="m9l1/images/m9l1/L2_S18-c.png" />
+    </resource>
+    <resource identifier="RES-44EFA2BE-CAA4-DF75-E8C4-FA766F3C999C" type="webcontent" href="m9l1/images/m9l1/L2_S18-d.png">
+      <file href="m9l1/images/m9l1/L2_S18-d.png" />
+    </resource>
+    <resource identifier="RES-8AACC4C6-C295-1783-E818-987B930DBFDA" type="webcontent" href="m9l1/images/m9l1/L2_S18-DAO-a.png">
+      <file href="m9l1/images/m9l1/L2_S18-DAO-a.png" />
+    </resource>
+    <resource identifier="RES-EDC18010-2FC4-9608-405D-544D7EAD5769" type="webcontent" href="m9l1/images/m9l1/L2_S18-DAO-b.png">
+      <file href="m9l1/images/m9l1/L2_S18-DAO-b.png" />
+    </resource>
+    <resource identifier="RES-2CB7D27E-CCB8-40B5-EF9E-9824E701A2AB" type="webcontent" href="m9l1/images/m9l1/L2_S18-DAO-c.png">
+      <file href="m9l1/images/m9l1/L2_S18-DAO-c.png" />
+    </resource>
+    <resource identifier="RES-7C99DBFE-0D1D-B90F-6BDB-313AE2C4EFCD" type="webcontent" href="m9l1/images/m9l1/L2_S18-DAO-d.png">
+      <file href="m9l1/images/m9l1/L2_S18-DAO-d.png" />
+    </resource>
+    <resource identifier="RES-5386EE8D-7542-F3F9-51B1-D816FA686BB4" type="webcontent" href="m9l1/images/m9l1/L2_S18-e.png">
+      <file href="m9l1/images/m9l1/L2_S18-e.png" />
+    </resource>
+    <resource identifier="RES-A89D88B8-5087-27CA-FB3F-345EA81FFDDC" type="webcontent" href="m9l1/images/m9l1/L2_S18-f.png">
+      <file href="m9l1/images/m9l1/L2_S18-f.png" />
+    </resource>
+    <resource identifier="RES-1C457E1E-1D34-AA57-1636-667246386902" type="webcontent" href="m9l1/images/m9l1/L2_S18-g.png">
+      <file href="m9l1/images/m9l1/L2_S18-g.png" />
+    </resource>
+    <resource identifier="RES-CF96B7B3-F7EE-AD49-D2CE-F2545196F09F" type="webcontent" href="m9l1/images/m9l1/L2_S2-b.jpg">
+      <file href="m9l1/images/m9l1/L2_S2-b.jpg" />
+    </resource>
+    <resource identifier="RES-F96DAE9D-6A12-22CE-5AE6-FE66D2D4B965" type="webcontent" href="m9l1/images/m9l1/L2_S2-c.jpg">
+      <file href="m9l1/images/m9l1/L2_S2-c.jpg" />
+    </resource>
+    <resource identifier="RES-CD85605D-391A-9F24-CD7E-4D6050ECCE9E" type="webcontent" href="m9l1/images/m9l1/L2_S2.jpg">
+      <file href="m9l1/images/m9l1/L2_S2.jpg" />
+    </resource>
+    <resource identifier="RES-94A8E074-7234-12DE-37D9-1E56EB3EEE14" type="webcontent" href="m9l1/images/m9l1/L2_S20-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S20-a.jpg" />
+    </resource>
+    <resource identifier="RES-C36DF5E8-65AE-15EB-35F0-5B3CE5EE6683" type="webcontent" href="m9l1/images/m9l1/L2_S20-b.png">
+      <file href="m9l1/images/m9l1/L2_S20-b.png" />
+    </resource>
+    <resource identifier="RES-97888FBB-98F5-290A-051F-E43793AAE94D" type="webcontent" href="m9l1/images/m9l1/L2_S20-c.png">
+      <file href="m9l1/images/m9l1/L2_S20-c.png" />
+    </resource>
+    <resource identifier="RES-52A45AC3-47A8-F049-EC1A-334AE36C1635" type="webcontent" href="m9l1/images/m9l1/L2_S20-d.png">
+      <file href="m9l1/images/m9l1/L2_S20-d.png" />
+    </resource>
+    <resource identifier="RES-2FA0632E-4D5C-092B-BE2A-DDCFB7AFF954" type="webcontent" href="m9l1/images/m9l1/L2_S20-DAOR-a.png">
+      <file href="m9l1/images/m9l1/L2_S20-DAOR-a.png" />
+    </resource>
+    <resource identifier="RES-2A0D781E-EEA9-FFD8-50ED-DCD08F0B17EB" type="webcontent" href="m9l1/images/m9l1/L2_S20-DAOR-b.png">
+      <file href="m9l1/images/m9l1/L2_S20-DAOR-b.png" />
+    </resource>
+    <resource identifier="RES-D388AE4B-050D-14BA-91C3-8D3576CA908C" type="webcontent" href="m9l1/images/m9l1/L2_S20-DAOR-c.png">
+      <file href="m9l1/images/m9l1/L2_S20-DAOR-c.png" />
+    </resource>
+    <resource identifier="RES-18B7C28D-5D45-F581-C495-1A5BB778698D" type="webcontent" href="m9l1/images/m9l1/L2_S20-DAOR-d.png">
+      <file href="m9l1/images/m9l1/L2_S20-DAOR-d.png" />
+    </resource>
+    <resource identifier="RES-042082A1-4339-054F-E3C4-33EC521C046E" type="webcontent" href="m9l1/images/m9l1/L2_S20-e.png">
+      <file href="m9l1/images/m9l1/L2_S20-e.png" />
+    </resource>
+    <resource identifier="RES-EE0B3794-B770-A6ED-F64A-E8AB66BB1E2F" type="webcontent" href="m9l1/images/m9l1/L2_S20-f.png">
+      <file href="m9l1/images/m9l1/L2_S20-f.png" />
+    </resource>
+    <resource identifier="RES-81A6B3AB-8309-00E5-351A-8DE0EB7EF1F6" type="webcontent" href="m9l1/images/m9l1/L2_S20-g.png">
+      <file href="m9l1/images/m9l1/L2_S20-g.png" />
+    </resource>
+    <resource identifier="RES-C94A3F0E-41DA-F1B3-CE76-41D3015F0A66" type="webcontent" href="m9l1/images/m9l1/L2_S20-h.png">
+      <file href="m9l1/images/m9l1/L2_S20-h.png" />
+    </resource>
+    <resource identifier="RES-E1143145-CD54-4ADE-D187-F800998D2B95" type="webcontent" href="m9l1/images/m9l1/L2_S20-i.png">
+      <file href="m9l1/images/m9l1/L2_S20-i.png" />
+    </resource>
+    <resource identifier="RES-03E91A43-BDB1-B7AE-A57C-41C60D72A776" type="webcontent" href="m9l1/images/m9l1/L2_S21-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S21-a.jpg" />
+    </resource>
+    <resource identifier="RES-ED8D98C8-AE92-6136-289F-97DEC4B396BA" type="webcontent" href="m9l1/images/m9l1/L2_S21-b.png">
+      <file href="m9l1/images/m9l1/L2_S21-b.png" />
+    </resource>
+    <resource identifier="RES-42E558AE-BEF7-A7CF-F5FA-58D375AA69B9" type="webcontent" href="m9l1/images/m9l1/L2_S21-c.png">
+      <file href="m9l1/images/m9l1/L2_S21-c.png" />
+    </resource>
+    <resource identifier="RES-E6A9E357-879B-D564-1F19-E0797EB48B84" type="webcontent" href="m9l1/images/m9l1/L2_S21-d.png">
+      <file href="m9l1/images/m9l1/L2_S21-d.png" />
+    </resource>
+    <resource identifier="RES-D8265A2A-0BCA-A423-1E25-1C18DCBD1B35" type="webcontent" href="m9l1/images/m9l1/L2_S22-a.png">
+      <file href="m9l1/images/m9l1/L2_S22-a.png" />
+    </resource>
+    <resource identifier="RES-7FC7E0BE-EC71-1CDA-DC36-18C323E2A5E5" type="webcontent" href="m9l1/images/m9l1/L2_S22-b.png">
+      <file href="m9l1/images/m9l1/L2_S22-b.png" />
+    </resource>
+    <resource identifier="RES-4A614FB7-D614-81CC-28AA-BA547A05192B" type="webcontent" href="m9l1/images/m9l1/L2_S22-c.png">
+      <file href="m9l1/images/m9l1/L2_S22-c.png" />
+    </resource>
+    <resource identifier="RES-BB62B0AA-95B5-EBAE-1228-83837AF6D88F" type="webcontent" href="m9l1/images/m9l1/L2_S22-d.png">
+      <file href="m9l1/images/m9l1/L2_S22-d.png" />
+    </resource>
+    <resource identifier="RES-5EF63F0D-9DEE-B9E9-8DAF-CF01500AE261" type="webcontent" href="m9l1/images/m9l1/L2_S25-a.png">
+      <file href="m9l1/images/m9l1/L2_S25-a.png" />
+    </resource>
+    <resource identifier="RES-2AC732BC-7799-245A-DC6A-C39E537C348D" type="webcontent" href="m9l1/images/m9l1/L2_S25-b.png">
+      <file href="m9l1/images/m9l1/L2_S25-b.png" />
+    </resource>
+    <resource identifier="RES-886C5A5D-0C2F-DDA6-3C2A-F4B651950E59" type="webcontent" href="m9l1/images/m9l1/L2_S25-d.png">
+      <file href="m9l1/images/m9l1/L2_S25-d.png" />
+    </resource>
+    <resource identifier="RES-9DDBCC14-8E6D-B399-0A1C-8321E42CBA7C" type="webcontent" href="m9l1/images/m9l1/L2_S26-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S26-a.jpg" />
+    </resource>
+    <resource identifier="RES-AAF42834-B0A4-6D4B-926B-85FB90CDBF4D" type="webcontent" href="m9l1/images/m9l1/L2_S26-b.jpg">
+      <file href="m9l1/images/m9l1/L2_S26-b.jpg" />
+    </resource>
+    <resource identifier="RES-1DD27141-9A27-AF15-E96B-69982D8A8413" type="webcontent" href="m9l1/images/m9l1/L2_S26-c.jpg">
+      <file href="m9l1/images/m9l1/L2_S26-c.jpg" />
+    </resource>
+    <resource identifier="RES-95A78542-D6B7-10D1-CAD0-D5FEE903259B" type="webcontent" href="m9l1/images/m9l1/L2_S26-PROPR-a.png">
+      <file href="m9l1/images/m9l1/L2_S26-PROPR-a.png" />
+    </resource>
+    <resource identifier="RES-567ADD86-0C9A-711B-90A4-0EB79094DFF4" type="webcontent" href="m9l1/images/m9l1/L2_S26-PROPR-b.png">
+      <file href="m9l1/images/m9l1/L2_S26-PROPR-b.png" />
+    </resource>
+    <resource identifier="RES-A97CF8CF-8B2E-D5C5-C027-CDCA3AF59E80" type="webcontent" href="m9l1/images/m9l1/L2_S26-PROPR-c.png">
+      <file href="m9l1/images/m9l1/L2_S26-PROPR-c.png" />
+    </resource>
+    <resource identifier="RES-FB35B172-E0AE-D818-BAC2-8C81B561BE56" type="webcontent" href="m9l1/images/m9l1/L2_S26-PROPR-d.png">
+      <file href="m9l1/images/m9l1/L2_S26-PROPR-d.png" />
+    </resource>
+    <resource identifier="RES-51397328-B017-8292-2F21-D3D3F3EE8623" type="webcontent" href="m9l1/images/m9l1/L2_S27-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-a.jpg" />
+    </resource>
+    <resource identifier="RES-04D5E85D-C2CC-0F4E-CA0F-7D1CD7B72C7B" type="webcontent" href="m9l1/images/m9l1/L2_S27-b.png">
+      <file href="m9l1/images/m9l1/L2_S27-b.png" />
+    </resource>
+    <resource identifier="RES-7C8374B0-2A66-AA92-AAB4-6F8C8F93A0D2" type="webcontent" href="m9l1/images/m9l1/L2_S27-c.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-c.jpg" />
+    </resource>
+    <resource identifier="RES-170A35AF-FE9C-BE4E-6DC9-E4789B46B627" type="webcontent" href="m9l1/images/m9l1/L2_S27-d.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-d.jpg" />
+    </resource>
+    <resource identifier="RES-2BEDE016-DFFB-92DF-4020-CE4F0139ADCE" type="webcontent" href="m9l1/images/m9l1/L2_S27-e.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-e.jpg" />
+    </resource>
+    <resource identifier="RES-188D9C5C-1F34-E23E-31EE-B8FA41D82095" type="webcontent" href="m9l1/images/m9l1/L2_S27-f.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-f.jpg" />
+    </resource>
+    <resource identifier="RES-95DE3616-1D2C-905E-18D9-14B671F99585" type="webcontent" href="m9l1/images/m9l1/L2_S27-PROPR-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-PROPR-a.jpg" />
+    </resource>
+    <resource identifier="RES-8EFD2E51-C040-E7CA-A045-37FC6BFAB105" type="webcontent" href="m9l1/images/m9l1/L2_S27-PROPR-b.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-PROPR-b.jpg" />
+    </resource>
+    <resource identifier="RES-32EC4D61-4E29-ED69-C68A-BC1A356A3E64" type="webcontent" href="m9l1/images/m9l1/L2_S27-PROPR-c.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-PROPR-c.jpg" />
+    </resource>
+    <resource identifier="RES-09174236-C883-58CE-7A71-348AB9DCA163" type="webcontent" href="m9l1/images/m9l1/L2_S27-PROPR-d.jpg">
+      <file href="m9l1/images/m9l1/L2_S27-PROPR-d.jpg" />
+    </resource>
+    <resource identifier="RES-68B949AB-961B-6AB2-3F54-87EE8594956F" type="webcontent" href="m9l1/images/m9l1/L2_S3-a.png">
+      <file href="m9l1/images/m9l1/L2_S3-a.png" />
+    </resource>
+    <resource identifier="RES-7A39ED98-058E-BB17-A301-B3C01124D643" type="webcontent" href="m9l1/images/m9l1/L2_S3-b.png">
+      <file href="m9l1/images/m9l1/L2_S3-b.png" />
+    </resource>
+    <resource identifier="RES-78C26790-5505-E3BA-7886-7C5B2AB06BAD" type="webcontent" href="m9l1/images/m9l1/L2_S3-c.png">
+      <file href="m9l1/images/m9l1/L2_S3-c.png" />
+    </resource>
+    <resource identifier="RES-85831C14-CDA4-1B6E-E2EC-B6D6643197BF" type="webcontent" href="m9l1/images/m9l1/L2_S3-d.png">
+      <file href="m9l1/images/m9l1/L2_S3-d.png" />
+    </resource>
+    <resource identifier="RES-B3CDADE9-26CA-8D08-9F93-48508560DBE6" type="webcontent" href="m9l1/images/m9l1/L2_S3.png">
+      <file href="m9l1/images/m9l1/L2_S3.png" />
+    </resource>
+    <resource identifier="RES-D995A271-6F52-EF71-193F-557FD68C22C9" type="webcontent" href="m9l1/images/m9l1/L2_S4-a.png">
+      <file href="m9l1/images/m9l1/L2_S4-a.png" />
+    </resource>
+    <resource identifier="RES-6D6EB1BA-8EF8-E4CC-13D6-02CF956F183D" type="webcontent" href="m9l1/images/m9l1/L2_S4-b.png">
+      <file href="m9l1/images/m9l1/L2_S4-b.png" />
+    </resource>
+    <resource identifier="RES-B4CA257C-E91A-A579-F1B5-D73A54C0A4CF" type="webcontent" href="m9l1/images/m9l1/L2_S4-c.png">
+      <file href="m9l1/images/m9l1/L2_S4-c.png" />
+    </resource>
+    <resource identifier="RES-D7527B85-E0C5-AE36-AC58-23A86407E08A" type="webcontent" href="m9l1/images/m9l1/L2_S4-d.png">
+      <file href="m9l1/images/m9l1/L2_S4-d.png" />
+    </resource>
+    <resource identifier="RES-4E5C7420-7A06-3D76-772C-95333A0EC442" type="webcontent" href="m9l1/images/m9l1/L2_S4-e.png">
+      <file href="m9l1/images/m9l1/L2_S4-e.png" />
+    </resource>
+    <resource identifier="RES-75EA65D4-BB97-82E1-EB7A-605FD53A2163" type="webcontent" href="m9l1/images/m9l1/L2_S4-f.png">
+      <file href="m9l1/images/m9l1/L2_S4-f.png" />
+    </resource>
+    <resource identifier="RES-029D965B-6305-C05D-91FE-01AB00D997AD" type="webcontent" href="m9l1/images/m9l1/L2_S4-g.png">
+      <file href="m9l1/images/m9l1/L2_S4-g.png" />
+    </resource>
+    <resource identifier="RES-8D5841F8-A3B4-7737-8543-63DEF76ECA6D" type="webcontent" href="m9l1/images/m9l1/L2_S4-h.png">
+      <file href="m9l1/images/m9l1/L2_S4-h.png" />
+    </resource>
+    <resource identifier="RES-DC56FBD6-3C46-BB7C-C779-B8B0E9A5E85D" type="webcontent" href="m9l1/images/m9l1/L2_S4-i.png">
+      <file href="m9l1/images/m9l1/L2_S4-i.png" />
+    </resource>
+    <resource identifier="RES-99FB8A8F-BB7A-EACE-6E31-FDF9D56BBB15" type="webcontent" href="m9l1/images/m9l1/L2_S4-j.png">
+      <file href="m9l1/images/m9l1/L2_S4-j.png" />
+    </resource>
+    <resource identifier="RES-58E49DDE-5727-FEAA-86C7-C45180331EAB" type="webcontent" href="m9l1/images/m9l1/L2_S4-k.png">
+      <file href="m9l1/images/m9l1/L2_S4-k.png" />
+    </resource>
+    <resource identifier="RES-58998274-7219-675D-7B40-DBA0EAF8D5D1" type="webcontent" href="m9l1/images/m9l1/L2_S4-l.png">
+      <file href="m9l1/images/m9l1/L2_S4-l.png" />
+    </resource>
+    <resource identifier="RES-2517B205-4012-7C9E-6A34-697A7B085203" type="webcontent" href="m9l1/images/m9l1/L2_S4-m.png">
+      <file href="m9l1/images/m9l1/L2_S4-m.png" />
+    </resource>
+    <resource identifier="RES-3FCAE3C9-D29E-97EE-8C9A-CAE77BF3046B" type="webcontent" href="m9l1/images/m9l1/L2_S4-n.png">
+      <file href="m9l1/images/m9l1/L2_S4-n.png" />
+    </resource>
+    <resource identifier="RES-E4C691FC-E0A0-E66E-8F78-8EBDA0A31473" type="webcontent" href="m9l1/images/m9l1/L2_S4-o.png">
+      <file href="m9l1/images/m9l1/L2_S4-o.png" />
+    </resource>
+    <resource identifier="RES-1EF8A4F2-0F67-E03B-0155-77DBD99C0226" type="webcontent" href="m9l1/images/m9l1/L2_S5-a.png">
+      <file href="m9l1/images/m9l1/L2_S5-a.png" />
+    </resource>
+    <resource identifier="RES-AFFF4E8A-D167-4555-F4BC-2E8232C216F0" type="webcontent" href="m9l1/images/m9l1/L2_S5-b.png">
+      <file href="m9l1/images/m9l1/L2_S5-b.png" />
+    </resource>
+    <resource identifier="RES-1AAE9F20-07EF-AB3A-BF66-00FD6E14664A" type="webcontent" href="m9l1/images/m9l1/L2_S5-c.png">
+      <file href="m9l1/images/m9l1/L2_S5-c.png" />
+    </resource>
+    <resource identifier="RES-77AADBD7-05C7-2CCF-2C40-2C1D6BA74445" type="webcontent" href="m9l1/images/m9l1/L2_S5-d.png">
+      <file href="m9l1/images/m9l1/L2_S5-d.png" />
+    </resource>
+    <resource identifier="RES-F1D409C1-FF5B-18F1-C229-94B36A482A7F" type="webcontent" href="m9l1/images/m9l1/L2_S7-a.png">
+      <file href="m9l1/images/m9l1/L2_S7-a.png" />
+    </resource>
+    <resource identifier="RES-9F905705-7929-7A04-67CE-6D31A49D8049" type="webcontent" href="m9l1/images/m9l1/L2_S7-b.png">
+      <file href="m9l1/images/m9l1/L2_S7-b.png" />
+    </resource>
+    <resource identifier="RES-7C48E28D-CF67-7409-D186-C45CDB2954E3" type="webcontent" href="m9l1/images/m9l1/L2_S7-c.png">
+      <file href="m9l1/images/m9l1/L2_S7-c.png" />
+    </resource>
+    <resource identifier="RES-AF91922A-E19B-304D-EE23-915320620BE4" type="webcontent" href="m9l1/images/m9l1/L2_S7-d.png">
+      <file href="m9l1/images/m9l1/L2_S7-d.png" />
+    </resource>
+    <resource identifier="RES-CD29F49F-B7A3-4D22-41A0-A50F60A8018E" type="webcontent" href="m9l1/images/m9l1/L2_S8-a.png">
+      <file href="m9l1/images/m9l1/L2_S8-a.png" />
+    </resource>
+    <resource identifier="RES-EA3B8E51-09BE-F722-BD59-E3688506E1E2" type="webcontent" href="m9l1/images/m9l1/L2_S8-b.png">
+      <file href="m9l1/images/m9l1/L2_S8-b.png" />
+    </resource>
+    <resource identifier="RES-E3DF84FD-B031-3E80-F246-BBC92BE69750" type="webcontent" href="m9l1/images/m9l1/L2_S9-a.png">
+      <file href="m9l1/images/m9l1/L2_S9-a.png" />
+    </resource>
+    <resource identifier="RES-B19A8960-9982-0198-82E2-FB77D29D7FB8" type="webcontent" href="m9l1/images/m9l1/L2_S9-b.png">
+      <file href="m9l1/images/m9l1/L2_S9-b.png" />
+    </resource>
+    <resource identifier="RES-8C4D789F-D4FF-CB46-B3B0-1BD5F8A8F221" type="webcontent" href="m9l1/images/m9l1/L2_S9-c.png">
+      <file href="m9l1/images/m9l1/L2_S9-c.png" />
+    </resource>
+    <resource identifier="RES-2D99A59E-0414-1124-0E13-E70A440DF2F5" type="webcontent" href="m9l1/images/m9l1/L2_S9_RSO-a.jpg">
+      <file href="m9l1/images/m9l1/L2_S9_RSO-a.jpg" />
+    </resource>
+    <resource identifier="RES-964DD415-6501-4992-8BBA-6998F2AD479A" type="webcontent" href="m9l1/images/m9l1/L2_S9_RSO-b.jpg">
+      <file href="m9l1/images/m9l1/L2_S9_RSO-b.jpg" />
+    </resource>
+    <resource identifier="RES-E0D3865E-7429-127B-7FF8-20C414BDE65E" type="webcontent" href="m9l1/images/m9l1/L2_S9_RSO-c.jpg">
+      <file href="m9l1/images/m9l1/L2_S9_RSO-c.jpg" />
+    </resource>
+    <resource identifier="RES-2EA54737-462F-4575-9EDE-EE07FC7D5069" type="webcontent" href="m9l1/images/m9l1/_L2_S16-SDO-a.jpg">
+      <file href="m9l1/images/m9l1/_L2_S16-SDO-a.jpg" />
+    </resource>
+    <resource identifier="RES-F0AD2723-D252-FE57-1137-DF0476FF7678" type="webcontent" href="m9l1/images/m9l1/_L2_S16-SDO-b.jpg">
+      <file href="m9l1/images/m9l1/_L2_S16-SDO-b.jpg" />
+    </resource>
+    <resource identifier="RES-B664F316-B912-B884-D05B-011710594B3F" type="webcontent" href="m9l1/images/m9l1/_L2_S16-SDO-c.jpg">
+      <file href="m9l1/images/m9l1/_L2_S16-SDO-c.jpg" />
+    </resource>
+    <resource identifier="RES-522615C1-7A2A-9253-753E-AFDF3A8F7851" type="webcontent" href="m9l1/images/m9l1/_L2_S17-a.jpg">
+      <file href="m9l1/images/m9l1/_L2_S17-a.jpg" />
+    </resource>
+    <resource identifier="RES-9E84C25F-2E59-BAB9-CB4E-BCAC13BD2735" type="webcontent" href="m9l1/images/m9l1/_L2_S17-b.jpg">
+      <file href="m9l1/images/m9l1/_L2_S17-b.jpg" />
+    </resource>
+    <resource identifier="RES-EDEF3876-42F7-5D16-5D10-7A9DE3158702" type="webcontent" href="m9l1/images/m9l1/_L2_S17-c.jpg">
+      <file href="m9l1/images/m9l1/_L2_S17-c.jpg" />
+    </resource>
+    <resource identifier="RES-56D18524-87D2-0B4E-2E80-9A5CFC9FE323" type="webcontent" href="m9l1/images/m9l1/_L2_S17-d.jpg">
+      <file href="m9l1/images/m9l1/_L2_S17-d.jpg" />
+    </resource>
+    <resource identifier="RES-A7634AC4-D436-91BD-86E7-39CCDD5D62DB" type="webcontent" href="m9l1/images/m9l1/_L2_S17-e.jpg">
+      <file href="m9l1/images/m9l1/_L2_S17-e.jpg" />
+    </resource>
+    <resource identifier="RES-F7337FC1-8BB3-C5F9-EA21-E15155F64E9D" type="webcontent" href="m9l1/images/banner_logo.png">
+      <file href="m9l1/images/banner_logo.png" />
+    </resource>
+    <resource identifier="RES-136E75F2-7B5E-8E71-88C0-C5D092D30CF2" type="webcontent" href="m9l1/images/bullet - Copy.png">
+      <file href="m9l1/images/bullet - Copy.png" />
+    </resource>
+    <resource identifier="RES-AE209919-4637-0DA3-AED6-57BE895C9DCD" type="webcontent" href="m9l1/images/bullet.png">
+      <file href="m9l1/images/bullet.png" />
+    </resource>
+    <resource identifier="RES-766AF060-D1B8-DE33-F880-5D06A8C7216B" type="webcontent" href="m9l1/images/bullet.psd">
+      <file href="m9l1/images/bullet.psd" />
+    </resource>
+    <resource identifier="RES-E6146D51-360C-7A36-C87C-3B00572160B4" type="webcontent" href="m9l1/images/help.png">
+      <file href="m9l1/images/help.png" />
+    </resource>
+    <resource identifier="RES-32CBC36E-9B91-DC7A-D713-5BB766CCC1E8" type="webcontent" href="m9l1/images/interactive_hand.png">
+      <file href="m9l1/images/interactive_hand.png" />
+    </resource>
+    <resource identifier="RES-7E41EAAA-B825-926E-636D-B712B81A4270" type="webcontent" href="m9l1/images/react_logo.svg">
+      <file href="m9l1/images/react_logo.svg" />
+    </resource>
+    <resource identifier="RES-A62ABA79-B5B3-0C84-C5F1-E3578FEEEDE3" type="webcontent" href="m9l1/images/spacer.png">
+      <file href="m9l1/images/spacer.png" />
+    </resource>
+    <resource identifier="RES-BED0D78F-5574-B366-0131-0C170ECCEE1B" type="webcontent" href="m9l1/images/sprite_sheets.fla">
+      <file href="m9l1/images/sprite_sheets.fla" />
+    </resource>
+    <resource identifier="RES-4C393B1D-16F1-3372-BEEE-C2D28E19322E" type="webcontent" href="m9l1/js/libs/createjs-2015.11.26.min.js">
+      <file href="m9l1/js/libs/createjs-2015.11.26.min.js" />
+    </resource>
+    <resource identifier="RES-4EAB6600-005E-0034-0AF9-3E331E3CD68A" type="webcontent" href="m9l1/js/assignObjectPolyfill.js">
+      <file href="m9l1/js/assignObjectPolyfill.js" />
+    </resource>
+    <resource identifier="RES-02F7CCAB-2149-3958-E905-0FE3894DE0BE" type="webcontent" href="m9l1/js/AtlasPro_SCORM2004.js">
+      <file href="m9l1/js/AtlasPro_SCORM2004.js" />
+    </resource>
+    <resource identifier="RES-CB39E180-4761-4C98-2C6A-D1BFA6659801" type="webcontent" href="m9l1/static/css/2.3b8df3f8.chunk.css">
+      <file href="m9l1/static/css/2.3b8df3f8.chunk.css" />
+    </resource>
+    <resource identifier="RES-35502F47-1D61-A072-135D-E94F3095FFCF" type="webcontent" href="m9l1/static/css/2.3b8df3f8.chunk.css.map">
+      <file href="m9l1/static/css/2.3b8df3f8.chunk.css.map" />
+    </resource>
+    <resource identifier="RES-951F7D7F-02C8-5ECB-56B1-544DB93E275D" type="webcontent" href="m9l1/static/css/main.b22cd536.chunk.css">
+      <file href="m9l1/static/css/main.b22cd536.chunk.css" />
+    </resource>
+    <resource identifier="RES-FD16686D-793A-66B9-78FB-0B6E38060EB9" type="webcontent" href="m9l1/static/css/main.b22cd536.chunk.css.map">
+      <file href="m9l1/static/css/main.b22cd536.chunk.css.map" />
+    </resource>
+    <resource identifier="RES-49722DCE-FAD7-8100-6F60-E0712DEDF52A" type="webcontent" href="m9l1/static/js/2.1db6d389.chunk.js">
+      <file href="m9l1/static/js/2.1db6d389.chunk.js" />
+    </resource>
+    <resource identifier="RES-BD592A44-233D-1998-B7BF-E4A50ACC7986" type="webcontent" href="m9l1/static/js/2.1db6d389.chunk.js.LICENSE.txt">
+      <file href="m9l1/static/js/2.1db6d389.chunk.js.LICENSE.txt" />
+    </resource>
+    <resource identifier="RES-41903A55-B2B9-2E0A-BF8E-623FF9D17A9B" type="webcontent" href="m9l1/static/js/2.1db6d389.chunk.js.map">
+      <file href="m9l1/static/js/2.1db6d389.chunk.js.map" />
+    </resource>
+    <resource identifier="RES-34513C0F-AE68-B114-CE47-F42A7DE8DE6E" type="webcontent" href="m9l1/static/js/main.36d2d2aa.chunk.js">
+      <file href="m9l1/static/js/main.36d2d2aa.chunk.js" />
+    </resource>
+    <resource identifier="RES-93220F05-427E-0C04-2B0C-CA49E9264273" type="webcontent" href="m9l1/static/js/main.36d2d2aa.chunk.js.map">
+      <file href="m9l1/static/js/main.36d2d2aa.chunk.js.map" />
+    </resource>
+    <resource identifier="RES-FC3D3A18-194D-0691-0E7D-0E05799E728C" type="webcontent" href="m9l1/static/js/runtime-main.a59b2957.js">
+      <file href="m9l1/static/js/runtime-main.a59b2957.js" />
+    </resource>
+    <resource identifier="RES-18335C39-B475-831E-D57A-D64752F6EEE3" type="webcontent" href="m9l1/static/js/runtime-main.a59b2957.js.map">
+      <file href="m9l1/static/js/runtime-main.a59b2957.js.map" />
+    </resource>
+    <resource identifier="RES-5FA3AF2D-0600-1DCE-8FDF-A2C7934E8CDF" type="webcontent" href="m9l1/static/media/icon-check.34cceadf.svg">
+      <file href="m9l1/static/media/icon-check.34cceadf.svg" />
+    </resource>
+    <resource identifier="RES-6178C5B4-BD19-5737-E527-0FDDD53643EA" type="webcontent" href="m9l1/static/media/icon-X.2442c0e6.svg">
+      <file href="m9l1/static/media/icon-X.2442c0e6.svg" />
+    </resource>
+    <resource identifier="RES-18111571-1C4F-97F9-D4EC-446490AFFEC5" type="webcontent" href="m9l1/video/Intro_Video.mp4">
+      <file href="m9l1/video/Intro_Video.mp4" />
+    </resource>
+    <resource identifier="RES-2BE09E58-2265-97F5-3B8E-15C6918076ED" type="webcontent" href="m9l1/xtras/images/glossary_banner.png">
+      <file href="m9l1/xtras/images/glossary_banner.png" />
+    </resource>
+    <resource identifier="RES-8CC5676F-C03F-9987-00C8-C6B79E0D4324" type="webcontent" href="m9l1/xtras/images/resources_banner.png">
+      <file href="m9l1/xtras/images/resources_banner.png" />
+    </resource>
+    <resource identifier="RES-1666DF27-049F-A3E9-3510-2A13FAAE4A15" type="webcontent" href="m9l1/xtras/resources/JP-3-50-U.pdf">
+      <file href="m9l1/xtras/resources/JP-3-50-U.pdf" />
+    </resource>
+    <resource identifier="RES-39BCBA6B-3B8E-EF65-8D26-714FFC7E880A" type="webcontent" href="m9l1/xtras/resources/Reintegration_Trn_aid.pptx">
+      <file href="m9l1/xtras/resources/Reintegration_Trn_aid.pptx" />
+    </resource>
+    <resource identifier="RES-5C1F7A32-BF53-030C-2E89-8BCDFEB233B0" type="webcontent" href="m9l1/xtras/glossary.html">
+      <file href="m9l1/xtras/glossary.html" />
+      <file href="m9l1/xtras/glossary_index.html" />
+      <file href="m9l1/xtras/style.css" />
+      <file href="m9l1/xtras/images/glossary_banner.png" />
+      <file href="m9l1/xtras/glossary_content.html" />
+    </resource>
+    <resource identifier="RES-F70BB66A-42BE-23CC-37D8-952C68B76D97" type="webcontent" href="m9l1/xtras/glossary_content.html">
+      <file href="m9l1/xtras/glossary_content.html" />
+      <file href="m9l1/xtras/style.css" />
+    </resource>
+    <resource identifier="RES-60B0AC12-8EE8-67F9-5AAD-BAC1FDC58D0F" type="webcontent" href="m9l1/xtras/glossary_index.html">
+      <file href="m9l1/xtras/glossary_index.html" />
+      <file href="m9l1/xtras/style.css" />
+      <file href="m9l1/xtras/images/glossary_banner.png" />
+    </resource>
+    <resource identifier="RES-212E1E06-5A5F-5C75-5F22-66E664CD9F19" type="webcontent" href="m9l1/xtras/resources.html">
+      <file href="m9l1/xtras/resources.html" />
+      <file href="m9l1/xtras/style.css" />
+      <file href="m9l1/xtras/images/resources_banner.png" />
+      <file href="m9l1/xtras/resources/JP-3-50-U.pdf" />
+    </resource>
+    <resource identifier="RES-A13519FD-A01A-7644-E9AC-142BBF954E7F" type="webcontent" href="m9l1/xtras/style.css">
+      <file href="m9l1/xtras/style.css" />
+    </resource>
+    <resource identifier="RES-9F88E016-4339-8900-3E37-824585FCAE21" type="webcontent" href="m9l1/asset-manifest.json">
+      <file href="m9l1/asset-manifest.json" />
+    </resource>
+    <resource identifier="RES-D32A7459-7FB0-31DF-C6C5-394A6D56A9C6" type="webcontent" href="m9l1/favicon.ico">
+      <file href="m9l1/favicon.ico" />
+    </resource>
+    <resource identifier="RES-231B11DB-497E-645F-8FBA-080B39F9F902" type="webcontent" href="m9l1/index.html">
+      <file href="m9l1/index.html" />
+      <file href="m9l1/manifest.json" />
+      <file href="m9l1/favicon.ico" />
+      <file href="m9l1/fonts/fonts.css" />
+      <file href="m9l1/static/css/2.3b8df3f8.chunk.css" />
+      <file href="m9l1/static/css/main.b22cd536.chunk.css" />
+      <file href="m9l1/js/AtlasPro_SCORM2004.js" />
+      <file href="m9l1/static/js/2.1db6d389.chunk.js" />
+      <file href="m9l1/static/js/main.36d2d2aa.chunk.js" />
+    </resource>
+    <resource identifier="RES-2AD90750-EBE6-CE2E-2418-AC949AD0B5BF" type="webcontent" href="m9l1/manifest.json">
+      <file href="m9l1/manifest.json" />
+    </resource>
+    <resource identifier="RES-EF6514E6-CE9B-EF6F-79AD-8DD7D5D39CB7" type="webcontent" href="m9l1/precache-manifest.381df42d85616e82208fbbbef46ad5b9.js">
+      <file href="m9l1/precache-manifest.381df42d85616e82208fbbbef46ad5b9.js" />
+    </resource>
+    <resource identifier="RES-18675775-014F-D886-C924-58B4A82E2F7E" type="webcontent" href="m9l1/service-worker.js">
+      <file href="m9l1/service-worker.js" />
+    </resource>
+    
+
+    <resource identifier="RES-33863217-669A-4509-6B37-0E2A7CB5B2D9" type="webcontent" href="m10l1/audio/m10l1/Links_to_Guidance_bak.mp3">
+      <file href="m10l1/audio/m10l1/Links_to_Guidance_bak.mp3" />
+    </resource>
+    <resource identifier="RES-1A2AA67C-9A46-97B8-2D48-A3CD735E87C3" type="webcontent" href="m10l1/audio/m10l1/m10l1f01.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f01.mp3" />
+    </resource>
+    <resource identifier="RES-C3EDCB59-AFBD-77A2-AEBA-BDFB0792C5F5" type="webcontent" href="m10l1/audio/m10l1/m10l1f02.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f02.mp3" />
+    </resource>
+    <resource identifier="RES-85853E50-6131-D7BF-7A83-4B34B9AFB4E4" type="webcontent" href="m10l1/audio/m10l1/m10l1f03.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f03.mp3" />
+    </resource>
+    <resource identifier="RES-5BB54C51-AD28-7614-355F-7DCDDA3F40E2" type="webcontent" href="m10l1/audio/m10l1/m10l1f04.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f04.mp3" />
+    </resource>
+    <resource identifier="RES-2BE90C38-AD06-1F03-D0E3-BBE34D505FB6" type="webcontent" href="m10l1/audio/m10l1/m10l1f05.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f05.mp3" />
+    </resource>
+    <resource identifier="RES-8932C5F1-715A-797B-0973-E6F0C6BF6DF7" type="webcontent" href="m10l1/audio/m10l1/m10l1f06.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f06.mp3" />
+    </resource>
+    <resource identifier="RES-CBDFF404-4739-A115-1C88-AA396E4C2EB9" type="webcontent" href="m10l1/audio/m10l1/m10l1f07.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f07.mp3" />
+    </resource>
+    <resource identifier="RES-F3594C4E-0201-B421-3125-45AEF8DE0C02" type="webcontent" href="m10l1/audio/m10l1/m10l1f08.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f08.mp3" />
+    </resource>
+    <resource identifier="RES-D63FF35C-69E0-E8CC-F816-75300AB25F3A" type="webcontent" href="m10l1/audio/m10l1/m10l1f09.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f09.mp3" />
+    </resource>
+    <resource identifier="RES-13677D42-FD1E-1E6C-4FA4-736BE75607A0" type="webcontent" href="m10l1/audio/m10l1/m10l1f10.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f10.mp3" />
+    </resource>
+    <resource identifier="RES-EF7B15C1-4D00-B573-77EE-FA612D5DEF1A" type="webcontent" href="m10l1/audio/m10l1/m10l1f11.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f11.mp3" />
+    </resource>
+    <resource identifier="RES-823EE412-D839-8AEE-3AE4-D833F0BE806D" type="webcontent" href="m10l1/audio/m10l1/m10l1f12.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f12.mp3" />
+    </resource>
+    <resource identifier="RES-6FC3F410-3760-FB62-0B8F-C8AE9E418FF3" type="webcontent" href="m10l1/audio/m10l1/m10l1f13.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f13.mp3" />
+    </resource>
+    <resource identifier="RES-106CD46A-3853-0D53-9BCB-3897737BE67A" type="webcontent" href="m10l1/audio/m10l1/m10l1f14.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f14.mp3" />
+    </resource>
+    <resource identifier="RES-1AD6D589-23A0-CE29-6412-8A1B678F14BC" type="webcontent" href="m10l1/audio/m10l1/m10l1f15.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f15.mp3" />
+    </resource>
+    <resource identifier="RES-43331F0D-DD50-25E1-88CE-48300DB17F91" type="webcontent" href="m10l1/audio/m10l1/m10l1f16.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f16.mp3" />
+    </resource>
+    <resource identifier="RES-779C1DBE-BD8D-0225-CA21-657174010235" type="webcontent" href="m10l1/audio/m10l1/m10l1f17.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f17.mp3" />
+    </resource>
+    <resource identifier="RES-502C0B2F-03FE-3894-E58E-B4DE08FEA560" type="webcontent" href="m10l1/audio/m10l1/m10l1f18.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f18.mp3" />
+    </resource>
+    <resource identifier="RES-11D4EFF8-DFFC-0F43-6B91-B574A8BAA361" type="webcontent" href="m10l1/audio/m10l1/m10l1f19.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f19.mp3" />
+    </resource>
+    <resource identifier="RES-82BDF06F-433C-64C6-D03B-E124475FB8BC" type="webcontent" href="m10l1/audio/m10l1/m10l1f20.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f20.mp3" />
+    </resource>
+    <resource identifier="RES-C057A74B-A160-950E-0155-B434D0088ADE" type="webcontent" href="m10l1/audio/m10l1/m10l1f21.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f21.mp3" />
+    </resource>
+    <resource identifier="RES-A43B7834-2A7F-2A85-7AF3-91BFC42EEE3E" type="webcontent" href="m10l1/audio/m10l1/m10l1f22.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f22.mp3" />
+    </resource>
+    <resource identifier="RES-7CDBA197-5DD2-EC9B-0AF7-97C175D0AD6B" type="webcontent" href="m10l1/audio/m10l1/m10l1f23.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f23.mp3" />
+    </resource>
+    <resource identifier="RES-59360DA1-3D5E-A68B-3F21-94045B858F1F" type="webcontent" href="m10l1/audio/m10l1/m10l1f24.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f24.mp3" />
+    </resource>
+    <resource identifier="RES-C1D2D99E-6B7F-C15C-E5E8-DAFB204E1924" type="webcontent" href="m10l1/audio/m10l1/m10l1f25.mp3">
+      <file href="m10l1/audio/m10l1/m10l1f25.mp3" />
+    </resource>
+    <resource identifier="RES-A7AFAD5B-714A-290A-45E1-BE959E015167" type="webcontent" href="m10l1/audio/m10l1/_m10l1f05_bak.mp3">
+      <file href="m10l1/audio/m10l1/_m10l1f05_bak.mp3" />
+    </resource>
+    <resource identifier="RES-4B900A41-DE55-0A22-CD38-1F9D494985C5" type="webcontent" href="m10l1/audio/m10l1/_m10l1f07_bak.mp3">
+      <file href="m10l1/audio/m10l1/_m10l1f07_bak.mp3" />
+    </resource>
+    <resource identifier="RES-BF4EDB0C-AABA-24F3-39D0-2810BC963FD2" type="webcontent" href="m10l1/audio/m10l1/_m10l1f07_bak2.mp3">
+      <file href="m10l1/audio/m10l1/_m10l1f07_bak2.mp3" />
+    </resource>
+    <resource identifier="RES-14C1D43E-9728-222D-9CEC-FF7023F12497" type="webcontent" href="m10l1/audio/m10l1/_Slide-01B_DOD Support to PR.mp3">
+      <file href="m10l1/audio/m10l1/_Slide-01B_DOD Support to PR.mp3" />
+    </resource>
+    <resource identifier="RES-85BB958F-6266-5520-D50E-FD4F83B98A90" type="webcontent" href="m10l1/audio/m10l1/_Slide-01C_Course Goal.mp3">
+      <file href="m10l1/audio/m10l1/_Slide-01C_Course Goal.mp3" />
+    </resource>
+    <resource identifier="RES-466BEC6D-FB37-8F55-FA2C-ECD04B259A41" type="webcontent" href="m10l1/audio/AudioPlaceholder.mp3">
+      <file href="m10l1/audio/AudioPlaceholder.mp3" />
+    </resource>
+    <resource identifier="RES-EE210BAE-1026-DE5E-5D28-1619485739C1" type="webcontent" href="m10l1/fonts/Montserrat/Montserrat-Regular.eot">
+      <file href="m10l1/fonts/Montserrat/Montserrat-Regular.eot" />
+    </resource>
+    <resource identifier="RES-813FF07D-E7F8-BB11-C7EC-693B8181C8F8" type="webcontent" href="m10l1/fonts/Montserrat/Montserrat-Regular.ttf">
+      <file href="m10l1/fonts/Montserrat/Montserrat-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-7D318290-47A8-A675-E1B9-5271076CD359" type="webcontent" href="m10l1/fonts/Montserrat/Montserrat-Regular.woff">
+      <file href="m10l1/fonts/Montserrat/Montserrat-Regular.woff" />
+    </resource>
+    <resource identifier="RES-C8C4C827-1BCA-EC95-A15A-4378A03CC214" type="webcontent" href="m10l1/fonts/Montserrat/Montserrat-Regular.woff2">
+      <file href="m10l1/fonts/Montserrat/Montserrat-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-208CFCDF-B8DA-A42D-9D8F-3DE481CBE4CE" type="webcontent" href="m10l1/fonts/Oswald/static/Oswald-Bold.ttf">
+      <file href="m10l1/fonts/Oswald/static/Oswald-Bold.ttf" />
+    </resource>
+    <resource identifier="RES-3B115D03-1A4C-883C-E056-A044D35DDD55" type="webcontent" href="m10l1/fonts/Oswald/static/Oswald-ExtraLight.ttf">
+      <file href="m10l1/fonts/Oswald/static/Oswald-ExtraLight.ttf" />
+    </resource>
+    <resource identifier="RES-D9693F1C-A975-C11A-3930-98D08A98836B" type="webcontent" href="m10l1/fonts/Oswald/static/Oswald-Light.ttf">
+      <file href="m10l1/fonts/Oswald/static/Oswald-Light.ttf" />
+    </resource>
+    <resource identifier="RES-7F862986-614B-969F-98CF-545A1BA47F2F" type="webcontent" href="m10l1/fonts/Oswald/static/Oswald-Medium.ttf">
+      <file href="m10l1/fonts/Oswald/static/Oswald-Medium.ttf" />
+    </resource>
+    <resource identifier="RES-20A2A8BD-9272-C2A9-DD9B-5F17EE698DE8" type="webcontent" href="m10l1/fonts/Oswald/static/Oswald-Regular.ttf">
+      <file href="m10l1/fonts/Oswald/static/Oswald-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-45A553F1-4303-DD2A-0405-8D40D24696C5" type="webcontent" href="m10l1/fonts/Oswald/static/Oswald-SemiBold.ttf">
+      <file href="m10l1/fonts/Oswald/static/Oswald-SemiBold.ttf" />
+    </resource>
+    <resource identifier="RES-7B746706-F157-930E-3C56-3D7A4B56CB69" type="webcontent" href="m10l1/fonts/Oswald/OFL.txt">
+      <file href="m10l1/fonts/Oswald/OFL.txt" />
+    </resource>
+    <resource identifier="RES-E45CF4BD-C0D5-C662-806C-13FE1755FC9C" type="webcontent" href="m10l1/fonts/Oswald/Oswald-VariableFont_wght.svg">
+      <file href="m10l1/fonts/Oswald/Oswald-VariableFont_wght.svg" />
+    </resource>
+    <resource identifier="RES-67938A4B-8CBC-5F19-46C6-836817B1FEB2" type="webcontent" href="m10l1/fonts/Oswald/Oswald-VariableFont_wght.ttf">
+      <file href="m10l1/fonts/Oswald/Oswald-VariableFont_wght.ttf" />
+    </resource>
+    <resource identifier="RES-D8F85CCE-7F30-78F2-3DC8-C718D715F0AB" type="webcontent" href="m10l1/fonts/Oswald/Oswald-VariableFont_wght.woff">
+      <file href="m10l1/fonts/Oswald/Oswald-VariableFont_wght.woff" />
+    </resource>
+    <resource identifier="RES-71433662-AE43-1124-EB62-055B6A526B0D" type="webcontent" href="m10l1/fonts/Oswald/Oswald-VariableFont_wght.woff2">
+      <file href="m10l1/fonts/Oswald/Oswald-VariableFont_wght.woff2" />
+    </resource>
+    <resource identifier="RES-81DF7043-DB80-097B-01D5-A36EC229305E" type="webcontent" href="m10l1/fonts/Oswald/Oswald.eot">
+      <file href="m10l1/fonts/Oswald/Oswald.eot" />
+    </resource>
+    <resource identifier="RES-249097C1-A323-E4D4-C5CF-05C8D085A944" type="webcontent" href="m10l1/fonts/Oswald/README">
+      <file href="m10l1/fonts/Oswald/README" />
+    </resource>
+    <resource identifier="RES-27F3F20C-DAB2-8D12-269F-A839DB75FC96" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.eot">
+      <file href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.eot" />
+    </resource>
+    <resource identifier="RES-B4136F52-75B1-3029-2503-1E81DC1FEA63" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.svg">
+      <file href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.svg" />
+    </resource>
+    <resource identifier="RES-9EAF1848-024F-C772-B423-4055CE174A28" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.ttf">
+      <file href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-F1E04C31-A3A6-AEF8-F502-4D4C782D8BEC" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.woff">
+      <file href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.woff" />
+    </resource>
+    <resource identifier="RES-4EF9B656-BBDA-5CF1-ADEA-B7B70E8A0716" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.woff2">
+      <file href="m10l1/fonts/Roboto/Roboto-Condensed-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-89C4DB9D-4AAC-54DD-51A9-1A008C4912F5" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Regular.eot">
+      <file href="m10l1/fonts/Roboto/Roboto-Regular.eot" />
+    </resource>
+    <resource identifier="RES-83779B39-23AA-B994-D5ED-0B39D308A453" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Regular.svg">
+      <file href="m10l1/fonts/Roboto/Roboto-Regular.svg" />
+    </resource>
+    <resource identifier="RES-C4DF4836-E240-190A-7F1A-72F519ACB658" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Regular.ttf">
+      <file href="m10l1/fonts/Roboto/Roboto-Regular.ttf" />
+    </resource>
+    <resource identifier="RES-2D629C75-B5CE-3638-E5D0-C668BCD74385" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Regular.woff">
+      <file href="m10l1/fonts/Roboto/Roboto-Regular.woff" />
+    </resource>
+    <resource identifier="RES-85AAD25C-B62E-31ED-E643-A697112043B0" type="webcontent" href="m10l1/fonts/Roboto/Roboto-Regular.woff2">
+      <file href="m10l1/fonts/Roboto/Roboto-Regular.woff2" />
+    </resource>
+    <resource identifier="RES-A5285A79-6F00-ABE9-1FBE-A174F2A56F93" type="webcontent" href="m10l1/fonts/fonts.css">
+      <file href="m10l1/fonts/fonts.css" />
+    </resource>
+    <resource identifier="RES-E925190D-2FAE-9109-A197-029866F2A574" type="webcontent" href="m10l1/images/m10l1/Full_Screens.png">
+      <file href="m10l1/images/m10l1/Full_Screens.png" />
+    </resource>
+    <resource identifier="RES-66120645-FB25-B8A2-68E7-E3AF91C749DD" type="webcontent" href="m10l1/images/m10l1/L3_S1.png">
+      <file href="m10l1/images/m10l1/L3_S1.png" />
+    </resource>
+    <resource identifier="RES-4B0D32C6-DEC9-972A-62A2-92EFF3DA9D62" type="webcontent" href="m10l1/images/m10l1/L3_S12-a.jpg">
+      <file href="m10l1/images/m10l1/L3_S12-a.jpg" />
+    </resource>
+    <resource identifier="RES-909F3896-96B0-81B1-4500-7343E828D63C" type="webcontent" href="m10l1/images/m10l1/L3_S12-b.png">
+      <file href="m10l1/images/m10l1/L3_S12-b.png" />
+    </resource>
+    <resource identifier="RES-57F9CECA-3003-38FF-B904-15E3D379F589" type="webcontent" href="m10l1/images/m10l1/L3_S12-c.png">
+      <file href="m10l1/images/m10l1/L3_S12-c.png" />
+    </resource>
+    <resource identifier="RES-F250E0DD-1225-5B8D-FC40-2EC76905C0CF" type="webcontent" href="m10l1/images/m10l1/L3_S12-d.png">
+      <file href="m10l1/images/m10l1/L3_S12-d.png" />
+    </resource>
+    <resource identifier="RES-41B8552D-44B5-4F99-799A-76A994FF4D82" type="webcontent" href="m10l1/images/m10l1/L3_S12-e.png">
+      <file href="m10l1/images/m10l1/L3_S12-e.png" />
+    </resource>
+    <resource identifier="RES-75296635-2E2E-B5A8-19E9-2105C98D30A0" type="webcontent" href="m10l1/images/m10l1/L3_S13.png">
+      <file href="m10l1/images/m10l1/L3_S13.png" />
+    </resource>
+    <resource identifier="RES-CB88113A-6B30-733F-D004-78EDA37152BB" type="webcontent" href="m10l1/images/m10l1/L3_S14-a.png">
+      <file href="m10l1/images/m10l1/L3_S14-a.png" />
+    </resource>
+    <resource identifier="RES-F37B331E-67E7-B3E7-5ACD-5C3300B6937E" type="webcontent" href="m10l1/images/m10l1/L3_S14-b.png">
+      <file href="m10l1/images/m10l1/L3_S14-b.png" />
+    </resource>
+    <resource identifier="RES-EAE3F58F-D884-F866-2C6C-7E2B3C5DB46F" type="webcontent" href="m10l1/images/m10l1/L3_S15-a.png">
+      <file href="m10l1/images/m10l1/L3_S15-a.png" />
+    </resource>
+    <resource identifier="RES-7DC5F5B8-7C97-6DCE-3C5B-20A538EF2202" type="webcontent" href="m10l1/images/m10l1/L3_S15-b.png">
+      <file href="m10l1/images/m10l1/L3_S15-b.png" />
+    </resource>
+    <resource identifier="RES-4BEA041F-E157-0411-F4FA-6B60208451CA" type="webcontent" href="m10l1/images/m10l1/L3_S16-a.png">
+      <file href="m10l1/images/m10l1/L3_S16-a.png" />
+    </resource>
+    <resource identifier="RES-07F55FEC-9967-8AF2-E5F2-B88213A79539" type="webcontent" href="m10l1/images/m10l1/L3_S16-b.png">
+      <file href="m10l1/images/m10l1/L3_S16-b.png" />
+    </resource>
+    <resource identifier="RES-341EB0CC-0B63-68D0-C933-73B9813FD114" type="webcontent" href="m10l1/images/m10l1/L3_S16-c.png">
+      <file href="m10l1/images/m10l1/L3_S16-c.png" />
+    </resource>
+    <resource identifier="RES-BA613AD2-49E9-2421-948C-697A9FE8159E" type="webcontent" href="m10l1/images/m10l1/L3_S16-d.png">
+      <file href="m10l1/images/m10l1/L3_S16-d.png" />
+    </resource>
+    <resource identifier="RES-475D5612-2AD1-1B3B-2F0B-8A8CC5E08203" type="webcontent" href="m10l1/images/m10l1/L3_S17.png">
+      <file href="m10l1/images/m10l1/L3_S17.png" />
+    </resource>
+    <resource identifier="RES-B6FB0723-1B64-F2F1-F63D-AC5A90B95EBD" type="webcontent" href="m10l1/images/m10l1/L3_S18-a.png">
+      <file href="m10l1/images/m10l1/L3_S18-a.png" />
+    </resource>
+    <resource identifier="RES-2AE03E28-48AF-B407-0FB3-A8461E95BD53" type="webcontent" href="m10l1/images/m10l1/L3_S18-b.png">
+      <file href="m10l1/images/m10l1/L3_S18-b.png" />
+    </resource>
+    <resource identifier="RES-369FE17D-8117-FAEF-92D3-679B428B081A" type="webcontent" href="m10l1/images/m10l1/L3_S18-c.jpg">
+      <file href="m10l1/images/m10l1/L3_S18-c.jpg" />
+    </resource>
+    <resource identifier="RES-A5F31B5D-56A8-5AE3-6524-440F683CDC73" type="webcontent" href="m10l1/images/m10l1/L3_S19.png">
+      <file href="m10l1/images/m10l1/L3_S19.png" />
+    </resource>
+    <resource identifier="RES-869EB4A2-0767-EE57-23FA-14EA07B8B535" type="webcontent" href="m10l1/images/m10l1/L3_S2-b.jpg">
+      <file href="m10l1/images/m10l1/L3_S2-b.jpg" />
+    </resource>
+    <resource identifier="RES-0C282DCE-C6F8-02C1-2350-FDC3AB902BFD" type="webcontent" href="m10l1/images/m10l1/L3_S2-c.jpg">
+      <file href="m10l1/images/m10l1/L3_S2-c.jpg" />
+    </resource>
+    <resource identifier="RES-555E005B-0411-2364-AA78-CAF84E2F8659" type="webcontent" href="m10l1/images/m10l1/L3_S2.jpg">
+      <file href="m10l1/images/m10l1/L3_S2.jpg" />
+    </resource>
+    <resource identifier="RES-CC5E8B08-93B3-1F36-30F9-23A1A27CD004" type="webcontent" href="m10l1/images/m10l1/L3_S3.png">
+      <file href="m10l1/images/m10l1/L3_S3.png" />
+    </resource>
+    <resource identifier="RES-DD3B960A-D22A-0D2D-9F0D-78EDEDCDB345" type="webcontent" href="m10l1/images/m10l1/L3_S4-a.jpg">
+      <file href="m10l1/images/m10l1/L3_S4-a.jpg" />
+    </resource>
+    <resource identifier="RES-070DF30F-6341-E6A7-5F29-3E8E8AEC3A77" type="webcontent" href="m10l1/images/m10l1/L3_S4-b.jpg">
+      <file href="m10l1/images/m10l1/L3_S4-b.jpg" />
+    </resource>
+    <resource identifier="RES-47050342-28D1-1C28-904E-5CE3536EAA5F" type="webcontent" href="m10l1/images/m10l1/L3_S4-c.jpg">
+      <file href="m10l1/images/m10l1/L3_S4-c.jpg" />
+    </resource>
+    <resource identifier="RES-323C5CC9-BEBE-ED17-8D1D-A886ED494685" type="webcontent" href="m10l1/images/m10l1/L3_S4-d.jpg">
+      <file href="m10l1/images/m10l1/L3_S4-d.jpg" />
+    </resource>
+    <resource identifier="RES-09CE82AD-AE6E-73F8-4EDD-6EF1060CF77F" type="webcontent" href="m10l1/images/m10l1/L3_S4-e.jpg">
+      <file href="m10l1/images/m10l1/L3_S4-e.jpg" />
+    </resource>
+    <resource identifier="RES-BA96E79E-F998-5CCF-BF60-5F842A8FD1CD" type="webcontent" href="m10l1/images/m10l1/L3_S5-a.jpg">
+      <file href="m10l1/images/m10l1/L3_S5-a.jpg" />
+    </resource>
+    <resource identifier="RES-B71B977F-73B8-F662-D3C8-29CB8D0F1A24" type="webcontent" href="m10l1/images/m10l1/L3_S5-b.jpg">
+      <file href="m10l1/images/m10l1/L3_S5-b.jpg" />
+    </resource>
+    <resource identifier="RES-C5C1E343-D955-ADC2-D3FF-9AADF66142A8" type="webcontent" href="m10l1/images/m10l1/L3_S5-c.jpg">
+      <file href="m10l1/images/m10l1/L3_S5-c.jpg" />
+    </resource>
+    <resource identifier="RES-ED93D5ED-519D-F7BB-A808-F4000BA6D9C6" type="webcontent" href="m10l1/images/m10l1/L3_S6-a.png">
+      <file href="m10l1/images/m10l1/L3_S6-a.png" />
+    </resource>
+    <resource identifier="RES-CDFBBF53-4B5C-7982-19D5-1460B388D81A" type="webcontent" href="m10l1/images/m10l1/L3_S6-b.png">
+      <file href="m10l1/images/m10l1/L3_S6-b.png" />
+    </resource>
+    <resource identifier="RES-FB26BFC7-CB15-C85A-9C05-289AB64E1575" type="webcontent" href="m10l1/images/m10l1/L3_S6-c.png">
+      <file href="m10l1/images/m10l1/L3_S6-c.png" />
+    </resource>
+    <resource identifier="RES-C05DA4B7-9E2C-A8DB-4526-AE2E86DF67F5" type="webcontent" href="m10l1/images/m10l1/L3_S6-d.png">
+      <file href="m10l1/images/m10l1/L3_S6-d.png" />
+    </resource>
+    <resource identifier="RES-EA80F29D-8302-5DDF-B4AD-6BADDF1E52AD" type="webcontent" href="m10l1/images/m10l1/L3_S6-e.png">
+      <file href="m10l1/images/m10l1/L3_S6-e.png" />
+    </resource>
+    <resource identifier="RES-70520694-56AA-4AA3-6E4C-BC97D0615FC0" type="webcontent" href="m10l1/images/m10l1/L3_S6.png">
+      <file href="m10l1/images/m10l1/L3_S6.png" />
+    </resource>
+    <resource identifier="RES-C14AA48D-40EF-917A-38A3-8DD8192CC579" type="webcontent" href="m10l1/images/m10l1/L3_S7-a.png">
+      <file href="m10l1/images/m10l1/L3_S7-a.png" />
+    </resource>
+    <resource identifier="RES-AFC776EF-DC3C-B6DA-6D00-4C4B22FFE1BD" type="webcontent" href="m10l1/images/m10l1/L3_S7-b.png">
+      <file href="m10l1/images/m10l1/L3_S7-b.png" />
+    </resource>
+    <resource identifier="RES-CD8B786E-B26A-808D-BE0D-45E66E55FA04" type="webcontent" href="m10l1/images/m10l1/L3_S7-c.png">
+      <file href="m10l1/images/m10l1/L3_S7-c.png" />
+    </resource>
+    <resource identifier="RES-A5B7BE7E-8364-1566-4E3A-5130B756FA0E" type="webcontent" href="m10l1/images/m10l1/L3_S7-d.png">
+      <file href="m10l1/images/m10l1/L3_S7-d.png" />
+    </resource>
+    <resource identifier="RES-A18FE6FB-3333-ADBD-E0E6-2A868865F711" type="webcontent" href="m10l1/images/m10l1/L3_S7-e.png">
+      <file href="m10l1/images/m10l1/L3_S7-e.png" />
+    </resource>
+    <resource identifier="RES-D6544EC3-91F3-BFEB-F05F-C934557BD491" type="webcontent" href="m10l1/images/m10l1/L3_S7-f.png">
+      <file href="m10l1/images/m10l1/L3_S7-f.png" />
+    </resource>
+    <resource identifier="RES-DC33CE55-D6A0-0102-F0E8-F33BB14096C5" type="webcontent" href="m10l1/images/m10l1/L3_S7.png">
+      <file href="m10l1/images/m10l1/L3_S7.png" />
+    </resource>
+    <resource identifier="RES-BFAD2E31-8FDF-7A8C-96FD-51AFAF999536" type="webcontent" href="m10l1/images/m10l1/L3_S8-a.png">
+      <file href="m10l1/images/m10l1/L3_S8-a.png" />
+    </resource>
+    <resource identifier="RES-FFA26EAE-A989-FD88-F2AF-F331C1964E7B" type="webcontent" href="m10l1/images/m10l1/L3_S8-b.png">
+      <file href="m10l1/images/m10l1/L3_S8-b.png" />
+    </resource>
+    <resource identifier="RES-36DCBAAB-952C-64B8-8574-F36531B3BAB5" type="webcontent" href="m10l1/images/m10l1/L3_S8-c.png">
+      <file href="m10l1/images/m10l1/L3_S8-c.png" />
+    </resource>
+    <resource identifier="RES-C474346E-3BEB-BEFA-88D0-8231F85D18F3" type="webcontent" href="m10l1/images/m10l1/L3_S8-d.png">
+      <file href="m10l1/images/m10l1/L3_S8-d.png" />
+    </resource>
+    <resource identifier="RES-02450CCB-D646-FA18-2792-5AEC5FD66455" type="webcontent" href="m10l1/images/m10l1/L3_S9-a.png">
+      <file href="m10l1/images/m10l1/L3_S9-a.png" />
+    </resource>
+    <resource identifier="RES-A264306B-16E8-56E8-C966-573C3A4E5DE0" type="webcontent" href="m10l1/images/m10l1/L3_S9-b.png">
+      <file href="m10l1/images/m10l1/L3_S9-b.png" />
+    </resource>
+    <resource identifier="RES-4E4FCD83-10E3-0434-F6F2-BCD7478C008E" type="webcontent" href="m10l1/images/m10l1/L3_S9-c.png">
+      <file href="m10l1/images/m10l1/L3_S9-c.png" />
+    </resource>
+    <resource identifier="RES-9DB4453B-F1CB-92B8-6672-775E80E41DC0" type="webcontent" href="m10l1/images/m10l1/L3_S9-d.png">
+      <file href="m10l1/images/m10l1/L3_S9-d.png" />
+    </resource>
+    <resource identifier="RES-17F7C007-6B28-291D-E3E1-921340D3C4C1" type="webcontent" href="m10l1/images/m10l1/L3_S9-e.png">
+      <file href="m10l1/images/m10l1/L3_S9-e.png" />
+    </resource>
+    <resource identifier="RES-C43906DA-E219-33F0-E69F-9810CE6B1E12" type="webcontent" href="m10l1/images/m10l1/L3_S9.png">
+      <file href="m10l1/images/m10l1/L3_S9.png" />
+    </resource>
+    <resource identifier="RES-938BDAA6-138C-E0FC-FB05-764511D6BF00" type="webcontent" href="m10l1/images/m10l1/_L3_S5-b.jpg">
+      <file href="m10l1/images/m10l1/_L3_S5-b.jpg" />
+    </resource>
+    <resource identifier="RES-D58BD025-E30C-034F-9C0A-50EBC10CBC9C" type="webcontent" href="m10l1/images/m10l1/_L3_S5-c.jpg">
+      <file href="m10l1/images/m10l1/_L3_S5-c.jpg" />
+    </resource>
+    <resource identifier="RES-D44EFA01-3919-620A-902E-9DE6CF92ABDD" type="webcontent" href="m10l1/images/banner_logo.png">
+      <file href="m10l1/images/banner_logo.png" />
+    </resource>
+    <resource identifier="RES-5041BF63-EAD0-CC4B-CD07-80D863ACCA5E" type="webcontent" href="m10l1/images/bullet - Copy.png">
+      <file href="m10l1/images/bullet - Copy.png" />
+    </resource>
+    <resource identifier="RES-5CFFCC3B-87A6-0809-A11A-FBDF8169E22F" type="webcontent" href="m10l1/images/bullet.png">
+      <file href="m10l1/images/bullet.png" />
+    </resource>
+    <resource identifier="RES-F8719293-307E-A44A-266C-43899AA788B3" type="webcontent" href="m10l1/images/bullet.psd">
+      <file href="m10l1/images/bullet.psd" />
+    </resource>
+    <resource identifier="RES-6BE49304-EA78-6FE0-4549-4243E193738F" type="webcontent" href="m10l1/images/help.png">
+      <file href="m10l1/images/help.png" />
+    </resource>
+    <resource identifier="RES-922622E0-F772-6167-08E0-DDC7485CB61D" type="webcontent" href="m10l1/images/interactive_hand.png">
+      <file href="m10l1/images/interactive_hand.png" />
+    </resource>
+    <resource identifier="RES-44CC842B-233F-6605-171D-A643E2AC48C1" type="webcontent" href="m10l1/images/react_logo.svg">
+      <file href="m10l1/images/react_logo.svg" />
+    </resource>
+    <resource identifier="RES-39F9482F-3261-D6B3-FF88-FC8BAC30E51C" type="webcontent" href="m10l1/images/spacer.png">
+      <file href="m10l1/images/spacer.png" />
+    </resource>
+    <resource identifier="RES-62CE1C87-80AD-A020-2C72-4B3FC1D00868" type="webcontent" href="m10l1/images/sprite_sheets.fla">
+      <file href="m10l1/images/sprite_sheets.fla" />
+    </resource>
+    <resource identifier="RES-80E19BCE-1C16-8C67-72B3-538B2DAAC0BC" type="webcontent" href="m10l1/js/libs/createjs-2015.11.26.min.js">
+      <file href="m10l1/js/libs/createjs-2015.11.26.min.js" />
+    </resource>
+    <resource identifier="RES-A87819F9-7B95-F215-D509-83A8811A7A81" type="webcontent" href="m10l1/js/assignObjectPolyfill.js">
+      <file href="m10l1/js/assignObjectPolyfill.js" />
+    </resource>
+    <resource identifier="RES-27E7BE78-6366-9142-A727-20A9EF52C056" type="webcontent" href="m10l1/js/AtlasPro_SCORM2004.js">
+      <file href="m10l1/js/AtlasPro_SCORM2004.js" />
+    </resource>
+    <resource identifier="RES-6386F5B3-2E09-B273-13EC-48E4B4A0F20E" type="webcontent" href="m10l1/static/css/2.3b8df3f8.chunk.css">
+      <file href="m10l1/static/css/2.3b8df3f8.chunk.css" />
+    </resource>
+    <resource identifier="RES-FD7ACB96-7070-CA13-9D59-022788054FFB" type="webcontent" href="m10l1/static/css/2.3b8df3f8.chunk.css.map">
+      <file href="m10l1/static/css/2.3b8df3f8.chunk.css.map" />
+    </resource>
+    <resource identifier="RES-19D9CE57-B942-25EF-A008-2A0CB1745987" type="webcontent" href="m10l1/static/css/main.b22cd536.chunk.css">
+      <file href="m10l1/static/css/main.b22cd536.chunk.css" />
+    </resource>
+    <resource identifier="RES-AC8D9B54-57AF-DB01-68D7-6C8851DA9877" type="webcontent" href="m10l1/static/css/main.b22cd536.chunk.css.map">
+      <file href="m10l1/static/css/main.b22cd536.chunk.css.map" />
+    </resource>
+    <resource identifier="RES-8C8FC535-00B4-0D5A-24EA-9111B7B50539" type="webcontent" href="m10l1/static/js/2.1db6d389.chunk.js">
+      <file href="m10l1/static/js/2.1db6d389.chunk.js" />
+    </resource>
+    <resource identifier="RES-7781B4C6-8FE5-234E-FA2E-2E20E6A69DD3" type="webcontent" href="m10l1/static/js/2.1db6d389.chunk.js.LICENSE.txt">
+      <file href="m10l1/static/js/2.1db6d389.chunk.js.LICENSE.txt" />
+    </resource>
+    <resource identifier="RES-C44E66E3-C3B4-EB01-5C9D-F856915499A1" type="webcontent" href="m10l1/static/js/2.1db6d389.chunk.js.map">
+      <file href="m10l1/static/js/2.1db6d389.chunk.js.map" />
+    </resource>
+    <resource identifier="RES-82385B2D-1CD8-1B09-7AF2-A7D1B602B633" type="webcontent" href="m10l1/static/js/main.c8bfe32d.chunk.js">
+      <file href="m10l1/static/js/main.c8bfe32d.chunk.js" />
+    </resource>
+    <resource identifier="RES-5DF613C4-4FF1-8DDE-13A4-DC0884E1203B" type="webcontent" href="m10l1/static/js/main.c8bfe32d.chunk.js.map">
+      <file href="m10l1/static/js/main.c8bfe32d.chunk.js.map" />
+    </resource>
+    <resource identifier="RES-7F6201F8-B3A8-B89A-C29D-9613A9BF48B0" type="webcontent" href="m10l1/static/js/runtime-main.a59b2957.js">
+      <file href="m10l1/static/js/runtime-main.a59b2957.js" />
+    </resource>
+    <resource identifier="RES-17412F58-9F36-0D1A-D07D-E81270B3B411" type="webcontent" href="m10l1/static/js/runtime-main.a59b2957.js.map">
+      <file href="m10l1/static/js/runtime-main.a59b2957.js.map" />
+    </resource>
+    <resource identifier="RES-B275F242-DB4B-6C5E-36D4-D0C607F52A99" type="webcontent" href="m10l1/static/media/icon-check.34cceadf.svg">
+      <file href="m10l1/static/media/icon-check.34cceadf.svg" />
+    </resource>
+    <resource identifier="RES-337CAFD7-A0B0-8768-BF1D-AE10190B7CB1" type="webcontent" href="m10l1/static/media/icon-X.2442c0e6.svg">
+      <file href="m10l1/static/media/icon-X.2442c0e6.svg" />
+    </resource>
+    <resource identifier="RES-ED5DE4A8-60E5-A1AD-CCFB-0E8E9304FBBD" type="webcontent" href="m10l1/video/Intro_Video.mp4">
+      <file href="m10l1/video/Intro_Video.mp4" />
+    </resource>
+    <resource identifier="RES-290D5D79-CEF5-97C7-2BCF-3BB0584830AD" type="webcontent" href="m10l1/xtras/images/glossary_banner.png">
+      <file href="m10l1/xtras/images/glossary_banner.png" />
+    </resource>
+    <resource identifier="RES-D492DF33-FEB3-7D18-B498-BEF776049794" type="webcontent" href="m10l1/xtras/images/resources_banner.png">
+      <file href="m10l1/xtras/images/resources_banner.png" />
+    </resource>
+    <resource identifier="RES-D0F0654C-D63E-45D8-7A73-5E40488A615E" type="webcontent" href="m10l1/xtras/resources/JP-3-50-U.pdf">
+      <file href="m10l1/xtras/resources/JP-3-50-U.pdf" />
+    </resource>
+    <resource identifier="RES-C77E4134-0F2E-AB39-EDFA-4ADC750870CA" type="webcontent" href="m10l1/xtras/resources/Reintegration_Trn_aid.pptx">
+      <file href="m10l1/xtras/resources/Reintegration_Trn_aid.pptx" />
+    </resource>
+    <resource identifier="RES-8B8798F0-A18F-B9E2-BB59-49CE193A5F5E" type="webcontent" href="m10l1/xtras/glossary.html">
+      <file href="m10l1/xtras/glossary.html" />
+      <file href="m10l1/xtras/glossary_index.html" />
+      <file href="m10l1/xtras/style.css" />
+      <file href="m10l1/xtras/images/glossary_banner.png" />
+      <file href="m10l1/xtras/glossary_content.html" />
+    </resource>
+    <resource identifier="RES-4892C7AA-4EFA-39B5-74D9-6F030D598F2E" type="webcontent" href="m10l1/xtras/glossary_content.html">
+      <file href="m10l1/xtras/glossary_content.html" />
+      <file href="m10l1/xtras/style.css" />
+    </resource>
+    <resource identifier="RES-DAFA1D59-AF3A-3512-488D-0FC7CE268D6B" type="webcontent" href="m10l1/xtras/glossary_index.html">
+      <file href="m10l1/xtras/glossary_index.html" />
+      <file href="m10l1/xtras/style.css" />
+      <file href="m10l1/xtras/images/glossary_banner.png" />
+    </resource>
+    <resource identifier="RES-5E604517-AB2F-DBCA-FF24-6472885D5665" type="webcontent" href="m10l1/xtras/resources.html">
+      <file href="m10l1/xtras/resources.html" />
+      <file href="m10l1/xtras/style.css" />
+      <file href="m10l1/xtras/images/resources_banner.png" />
+      <file href="m10l1/xtras/resources/JP-3-50-U.pdf" />
+    </resource>
+    <resource identifier="RES-1E33D3CC-C391-70F8-6774-D76224B8D0EC" type="webcontent" href="m10l1/xtras/style.css">
+      <file href="m10l1/xtras/style.css" />
+    </resource>
+    <resource identifier="RES-7487A9B1-6B18-0058-DF79-797DCEF0A600" type="webcontent" href="m10l1/asset-manifest.json">
+      <file href="m10l1/asset-manifest.json" />
+    </resource>
+    <resource identifier="RES-ADEF60BB-E660-75FA-C14C-43109478E9F9" type="webcontent" href="m10l1/favicon.ico">
+      <file href="m10l1/favicon.ico" />
+    </resource>
+    <resource identifier="RES-53471A1D-32BB-DDB3-F5E9-18B11708DE0C" type="webcontent" href="m10l1/index.html">
+      <file href="m10l1/index.html" />
+      <file href="m10l1/manifest.json" />
+      <file href="m10l1/favicon.ico" />
+      <file href="m10l1/fonts/fonts.css" />
+      <file href="m10l1/static/css/2.3b8df3f8.chunk.css" />
+      <file href="m10l1/static/css/main.b22cd536.chunk.css" />
+      <file href="m10l1/js/AtlasPro_SCORM2004.js" />
+      <file href="m10l1/static/js/2.1db6d389.chunk.js" />
+      <file href="m10l1/static/js/main.c8bfe32d.chunk.js" />
+    </resource>
+    <resource identifier="RES-D1D29BD4-6374-0B6D-04E5-8CE65F57D5E5" type="webcontent" href="m10l1/manifest.json">
+      <file href="m10l1/manifest.json" />
+    </resource>
+    <resource identifier="RES-83EC8722-3AFF-1882-E2EF-48DDC71B169D" type="webcontent" href="m10l1/precache-manifest.446317b6fa0c5a0ea10eaa5b6c3779b9.js">
+      <file href="m10l1/precache-manifest.446317b6fa0c5a0ea10eaa5b6c3779b9.js" />
+    </resource>
+    <resource identifier="RES-EA613DD0-0356-3C6A-EC55-7D34137DDED5" type="webcontent" href="m10l1/service-worker.js">
+      <file href="m10l1/service-worker.js" />
+    </resource>
+  </resources>
+</manifest>
+

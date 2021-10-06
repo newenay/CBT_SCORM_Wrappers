@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a Reload version 2.5.4 Metadata document-->
+<!--Spawned from the Reload Metadata Generator - http://www.reload.ac.uk-->
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM lom.xsd">
+  <general>
+    <language>en</language>
+  </general>
+  <technical>
+    <size>47699908</size>
+    <format>application/x-shockwave-flash</format>
+	<format>video/mpeg</format>
+    <format>graphics/jpg</format>
+    <format>text/html</format>
+    <location>http://www.jpra.jfcom.mil/DSPRCE/system_check.html</location>
+  </technical>
+  <educational>
+    <language>en</language>
+  </educational>
+</lom>
+

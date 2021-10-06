@@ -1,0 +1,93 @@
+/* Specificity, this applies to everything down the line, #ID applies to just that thing .class (somewhere in b/w) */
+body {
+    background-color: #EEE;
+    font-family: Helvetica, Arial, "sans-serif";
+    padding: 0px; /* 25px works well */
+    margin-left: 25px;
+    margin-right: 25px;
+    vertical-align: top;
+}
+
+.divClass {
+    /* border-width: 1px;
+    border-style: solid; */
+}
+
+h1 {
+    font-weight: normal;
+    margin:0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    text-shadow: 2px 2px 2px #333;
+}
+
+h2 { /* for titles */
+    color: rgb(228, 120, 20);
+    /* text-align: center; */
+    /* padding:  15px 0 0 20px; */
+    text-shadow: 2px 2px 2px #333;
+    font-size: 30px;
+}
+
+h6 {
+    color: rgba(76, 153, 4, 0.699);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
+    font-size: 20px;
+}
+
+p {
+    padding:  10px 10px 10px 10px;
+    line-height: 125%;
+    margin-top: 0em;
+    margin-bottom: 0em;
+    /* text-indent: 25px; */
+    font-size: 16px;
+}
+
+hr {
+    margin: 0px;
+}
+
+img, video {
+	-webkit-filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(5px 5px 5px #222);    
+    margin:0px 0px 0px 0px;
+    padding: 5px;
+    /* border-width: 1px;
+    border-style: solid; */
+    /* width: 100%;  of the cell not the img size */
+}
+
+button, .btnBase {
+    border-radius: 3px;
+    font-size: 10px;
+    background-color: #555555;
+    color: white;
+    border: 0;
+    opacity: 0.3;
+    filter: alpha(opacity=50);  /* for IE8 and earlier */
+}
+
+/* button:hover vs .button:hover (class) in footer.css & PictureViewer.css */
+button:hover, .btnBase:hover, /* button:focus, 
+.btnBase:focus, button:active, .btnBase:active */ {
+    background-color:#000000;  /* !important */
+    opacity: 0.3;
+    filter: alpha(opacity=50);
+}
+
+/* Normalize */
+ul { 
+    margin-left: 40px;
+    margin-bottom: 0em;
+    padding: 0px;
+    list-style-type: square;
+    list-style-position: outside;
+    list-style-image: none;
+    font-size: 14px;
+}
+
+.shadow {
+    -moz-box-shadow: inset 0 0 5px #000000;
+    -webkit-box-shadow: inset 0 0 5px #000000;
+    box-shadow: inset 0 0 5px #000000;
+}

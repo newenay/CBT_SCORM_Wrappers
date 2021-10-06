@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+ <lom xmlns="http://ltsc.ieee.org/xsd/LOM"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM ../lom.xsd">
+  <general>
+      <title>
+         <string language="x-none">Welcome</string>
+      </title>
+      <identifier>
+         <catalog>URI</catalog>
+         <entry>http://www.jpra.jfcom.mil/DSPRCE/index.html</entry>
+      </identifier>
+      <description>
+         <string language="x-none">This lesson welcomes the student to the course, while introducing the help file if needed.</string>
+      </description>
+      <keyword>
+         <string language="x-none">Personnel Recovery</string>
+      </keyword>
+   </general>
+    <lifeCycle>
+      <version>
+         <string language="x-none">2.0</string>
+      </version>
+      <status>
+            <source>LOMv1.0</source>
+            <value>final</value>
+      </status>
+   </lifeCycle>
+   <metaMetadata>
+      <identifier>
+         <catalog>URI</catalog>
+         <entry>http://www.jpra.jfcom.mil/DSPRCE/m10l1/m10l1_meta.xml</entry>
+      </identifier>
+      <metadataSchema>LOMv1.0</metadataSchema>
+      <metadataSchema>SCORM_CAM_v1.3</metadataSchema>
+      <metadataSchema>ADLv1.0</metadataSchema>
+   </metaMetadata>
+   <technical>
+   	  <size>95151</size>
+      <format>application/x-shockwave-flash</format>
+	  <format>video/mpeg</format>
+      <format>graphics/jpg</format>
+      <format>text/html</format>
+      <location>http://www.jpra.jfcom.mil/DSPRCE/index.html</location>
+   </technical>
+   <rights>
+      <cost>
+            <source>LOMv1.0</source>
+            <value>no</value>
+      </cost>
+      <copyrightAndOtherRestrictions>
+            <source>LOMv1.0</source>
+            <value>yes</value>
+      </copyrightAndOtherRestrictions>
+      <description>
+         <string language="x-none">Contact david.a.troyer.civ@mail.mil for copyright information.</string>
+      </description>
+   </rights>
+</lom>

@@ -1,0 +1,292 @@
+{
+	"1": {
+		"id": "1",
+		"title": "",
+		"narration": "<p>Ensuring\u00a0the\u00a0security\u00a0of\u00a0United\u00a0States\u00a0citizens\u00a0in\u00a0the\u00a0diplomatic\u00a0environment\u00a0is\u00a0a\u00a0fundamental\u00a0obligation\u00a0of\u00a0the\u00a0United\u00a0States\u00a0government.\u00a0When\u00a0US\u00a0citizens\u00a0are\u00a0in\u00a0danger\u00a0and\u00a0the\u00a0host\u00a0nation\u00a0is\u00a0unable\u00a0or\u00a0unwilling\u00a0to\u00a0protect\u00a0them,\u00a0the\u00a0US\u00a0Government\u00a0must\u00a0be\u00a0prepared\u00a0to\u00a0do\u00a0so.</p><p>Preparation\u00a0begins\u00a0with\u00a0first\u00a0understanding\u00a0the\u00a0diplomatic\u00a0environment.\u00a0\u00a0This\u00a0includes\u00a0how\u00a0the\u00a0diplomatic\u00a0environment\u00a0affects\u00a0the\u00a0Department\u00a0of\u00a0Defense\u00a0and\u00a0the\u00a0respective\u00a0roles\u00a0and\u00a0responsibilities\u00a0regarding\u00a0the\u00a0security\u00a0of\u00a0US\u00a0citizens\u00a0abroad.</p>",
+		"layout": "2",
+		"darkTheme": "TRUE",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"2": {
+		"id": "2",
+		"title": "Lesson Objectives",
+		"narration": "<p>This lesson provides an understanding of the US diplomatic environment and how it affects Department of Defense activities and operations around the world.</p><p><b>After completing this lesson</b>, you will be able to accomplish the following from a personnel recovery perspective:</p><ul><li>Identify a US diplomatic environment</li><li>Identify when a US diplomatic environment applies to Department of Defense operations</li><li>Identify the Department of Defense\u0092s role in a US diplomatic environment</li><li>Identify the Department of Defense\u0092s responsibilities in a US diplomatic environment</li></ul>",
+		"layout": "0",
+		"darkTheme": "TRUE",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"3": {
+		"id": "3",
+		"title": "US Government Policy & Guidance",
+		"narration": "<p>United States national security policies direct interagency collaboration to prevent, prepare for, and respond to personnel recovery incidents by applying a whole-of-government approach to personnel recovery.</p><p>A US diplomatic environment, which falls under the responsibility of a Chief of Mission, includes a host nation\u0092s sovereign land mass and, where applicable, its territorial waters.</p><p>Understanding Department of Defense Support to Personnel Recovery in a Chief of Mission Environment, commonly referred to as DSPRCE, provides the necessary foundation so that personnel recovery networks organic to a US Post and a geographic combatant command headquarters can systematically coordinate, cooperate and collaborate during a personnel recovery incident outside of a DOD-controlled Joint Operating Area.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"4": {
+		"id": "4",
+		"title": "WOG\u00a0Approach",
+		"narration": "<p>When US government departments and agencies coordinate, cooperate, and collaborate with one another to leverage existing authorities and synchronize the application of capabilities to overcome personnel recovery response shortfalls, they are applying a whole-of-government approach. National policy and Department of Defense directives mandate this approach for personnel recovery.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"5": {
+		"id": "5",
+		"title": "PPD-30",
+		"narration": "<p>Presidential Policy Directive-30, or PPD\u009630, titled <i>US Nationals Taken Hostage Abroad and Personnel Recovery Efforts</i>, directs a whole-of-government approach to personnel recovery, and more specifically hostage-taking of US nationals and other specified individuals abroad. The purpose of PPD-30 is to establish US government hostage-taking response policy and the processes to enable consistent policy implementation, ensure close interagency coordination, and enhance engagement with the families of those nationals held abroad.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"6": {
+		"id": "6",
+		"title": "DOD Policy",
+		"narration": "<p>Department of Defense Directive 3002.01, titled <i>Personnel Recovery in the Department of Defense</i>, establishes DOD personnel recovery policy. It is Department of Defense policy that all components of the Department shall preserve the lives and well-being of DOD personnel who are isolated while participating in US-sponsored activities or missions.</p><p>The directive further defines DOD personnel so that categories of isolated DOD personnel include US military, DOD civilians, and DOD contractor personnel authorized to accompany the US Armed Forces.</p><p>The DOD also has an obligation to train, equip, and protect its personnel; prevent their capture and exploitation by adversaries; and reduce the potential for using isolated personnel as leverage against US national security objectives.</p>",
+		"layout": "5",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"7": {
+		"id": "7",
+		"title": "Knowledge\u00a0Check",
+		"narration": "<p>Let\u0092s\u00a0check\u00a0on\u00a0your\u00a0learning.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"8": {
+		"id": "8",
+		"title": "DOS - Search & Rescue (SAR)",
+		"narration": "<p>A host nation government, by virtue of sovereign authority and responsibility, is primary for Search and Rescue of persons who become isolated within that nation, to include within territorial waters covered by their search and rescue region. However, additional amplification of the responsibilities implied by such primacy can exist in an agreement that further defines search and rescue responsibilities between the US and that nation. This is true even in situations that involve US persons. The host nation, by action or inaction, and whether or not suitable diplomatic relations exist between the US and the host nation, influences the Chief of Mission\u0092s decision-making regarding how involved the US government will be in these situations.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"9": {
+		"id": "9",
+		"title": "Chief of Mission",
+		"narration": "<p>By\u00a0statute,\u00a0the\u00a0Chief\u00a0of\u00a0Mission\u00a0directs,\u00a0coordinates,\u00a0and\u00a0supervises\u00a0all\u00a0US\u00a0Government\u00a0executive\u00a0branch\u00a0employees\u00a0in\u00a0their\u00a0respective\u00a0countries,\u00a0except\u00a0personnel\u00a0and\u00a0forces\u00a0under\u00a0the\u00a0command\u00a0of\u00a0the\u00a0geographic\u00a0combatant\u00a0commander.\u00a0Each\u00a0Chief\u00a0of\u00a0Mission\u00a0has\u00a0a\u00a0formal\u00a0arrangement\u00a0via\u00a0memorandum\u00a0of\u00a0agreement\u00a0with\u00a0the\u00a0geographic\u00a0combatant\u00a0commander\u00a0to\u00a0delineate\u00a0force\u00a0protection\u00a0responsibilities\u00a0for\u00a0Department\u00a0of\u00a0Defense\u00a0personnel.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"10": {
+		"id": "10",
+		"title": "DOD Official Presence Abroad",
+		"narration": "<p>Department of Defense official presence abroad falls under Chief of Mission direction, control, or responsibility, unless it is under the command of a geographic combatant command or officially on the staff of an international organization and performing the functions of that organization.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"11": {
+		"id": "11",
+		"title": "DOS/DOD MOU",
+		"narration": "<p>A 1997 Memorandum of Understanding between the State Department and Department of Defense, titled <i>The Protection and Evacuation of US Citizens and Nationals and Designated Other Persons from Threatened Areas Overseas</i>, establishes security responsibility for Department of Defense elements and personnel in foreign areas.</p><p>This memorandum of understanding, and its subordinate Annex A and Annex B, provide the basis for individual country memoranda of agreement between the Chief of Mission and the relevant geographic combatant commander.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"12": {
+		"id": "12",
+		"title": "DOS/DOD MOU ANNEX A",
+		"narration": "<p>Annex A states that the Chief of Mission shall have security responsibility for specific DOD elements and personnel, including authorized dependents.  These DOD elements and personnel include those assigned to the defense attach\u00e9 office, the marine security guard detachment, DOD personnel detailed to other US Government departments or agencies, and those that the Chief of Mission and geographic combatant commander agree shall be under Chief of Mission security responsibility. These same elements and personnel will be integrated with all other agencies represented at Post with regard to security briefings, personnel identification programs, residential surveys, and the US Diplomatic Post Emergency Action Plan.</p><p>Security for DOD personnel on temporary duty will generally be the responsibility of geographic combatant commander.  However, those military and civilian personnel and their dependents assigned temporary duty in support of an element under the Chief of Mission shall be the security responsibility of the Chief of Mission. Country clearance and temporary duty orders will specify the person or department responsible for security.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"13": {
+		"id": "13",
+		"title": "DOS/DOD MOU ANNEX B",
+		"narration": "<p>Annex B states that the geographic combatant commander shall have the security responsibility for all other DOD elements and personnel except those specifically enumerated in Annex A.  Commanders of geographic combatant command units stationed or deployed in country will coordinate security measures with the Chief of Mission via the Senior Defense Official/Defense Attach\u00e9, or SDO/DATT. In turn the SDO/DATT coordinates all Chief of Mission security issues with these commanders. The SDO/DATT is the Chief of Mission\u0092s single point of contact in dealing with military matters.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"14": {
+		"id": "14",
+		"title": "Other Categories",
+		"narration": "<p>Other categories of personnel that may be inside Department of State areas of responsibility but may or may not fall under Chief of Mission responsibility include those assigned to other facets of the US Government like US Legislators and those within the Judicial Branch.</p><p>In such cases, the Department of State typically addresses the appropriate security responsibilities ahead of any travel into a specific Chief of Mission\u0092s assigned country.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"15": {
+		"id": "15",
+		"title": "Security Responsibilities Within the Host Nation",
+		"narration": "<p>By statute and presidential directive, security responsibility for any US Government official presence in a host nation resides with the Chief of Mission unless the presence is under the command of a geographic combatant commander or is officially on the staff of an international organization and performing the functions of that organization.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"16": {
+		"id": "16",
+		"title": "Non-Executive Branch Agencies",
+		"narration": "<p>Non-executive branch agencies may have signed memoranda of understanding with the Secretary of State agreeing to abide by the same rules as those under Chief of Mission responsibility.  These memoranda of understanding typically identify the scope, mutual interests, and responsibilities between the Chief of Mission and the agency in carrying out activities in foreign locations.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"17": {
+		"id": "17",
+		"title": "Non-US Government Personnel",
+		"narration": "<p>The Chief of Mission has security responsibility for individuals who are US citizens even though they do not have a direct employer-employee relationship with the US Government. Examples include US Citizens traveling, living, or working for non-US Government entities in the country.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"18": {
+		"id": "18",
+		"title": "Legislative And Judicial Members",
+		"narration": "<p>Members of the US legislative and judicial branches are excluded from Chief of Mission responsibility.  When a security situation involves a member from this category it will be worked through the National Security Council and then assigned to either Department of State or Department of Defense by the President.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"19": {
+		"id": "19",
+		"title": "Knowledge Check",
+		"narration": "<p>Let\u0092s check on your learning.</p>",
+		"layout": "5",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"20": {
+		"id": "20",
+		"title": "Diplomatic Missions Other Than An Embassy",
+		"narration": "<p>Not every country with a US presence has an embassy. In some countries, there may be other types of State Department offices that perform some or all of the functions commonly done so by an official US Embassy or Post.</p><p>A High Commission is an embassy of a Commonwealth country located in another Commonwealth country.</p><p>A Permanent Mission is a diplomatic mission to a major international organization.</p><p>A Consulate General is a diplomatic mission located in a major city, usually other than the capital city. It provides a full range of consular services.</p><p>A Consulate is a diplomatic mission similar to a consulate general but may not provide a full range of services. Usually subordinate to the state's main embassy or high commission.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"21": {
+		"id": "21",
+		"title": "DOD/DOS AOR Comparison",
+		"narration": "<p><b>To summarize DOD and Department of State security responsibilities:</b><br /> The geographic combatant commander retains security responsibility for Department of Defense personnel of which he or she commands.</p><p>The Chief of Mission is responsible for US government personnel located and activities conducted within the host nation borders, including territorial waters, except for DOD personnel under the command of the geographic combatant commander.</p><p>Should a situation occur within a host nation that is under the responsibility of a Chief of Mission, and the situation requires the application of resources under the command of a geographic combatant commander, specific permissions and approvals are required from the Chief of Mission.</p><p>Depending on the political relationship and any standing arrangements the US government has with the host nation\u0092s government, specific permissions and approvals may be required from the host nation as well.  When this is the case, the Chief of Mission will negotiate for them.</p>",
+		"layout": "2",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"22": {
+		"id": "22",
+		"title": "Knowledge Check",
+		"narration": "<p>Let\u0092s check on your learning.</p>",
+		"layout": "5",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"23": {
+		"id": "23",
+		"title": "COM In A Supported Role",
+		"narration": "<p>In a US diplomatic environment, the geographic combatant commander fulfills two primary roles when it comes to addressing security responsibilities set forth in Annex A and Annex B of the Memorandum of Understanding between the State Department and Department of Defense.  These two roles are best described by the terms supporting and supported.</p><p>In a supporting role, the geographic combatant commander supports the responsible Chief of Mission when the Chief of Mission requests assistance from the Department of Defense. Within this role, and specific to personnel recovery, a Chief of Mission may request something as simple as a small medical team to care for a returning isolated person.  Or it can be as complicated as a US Special Forces Team rescuing a hostage.</p><p>The amount and type of support that the Department of Defense can provide is situationally dependent and based on what the Chief of Mission is asking the DOD to accomplish within a well-defined time period.</p><p>Click on the Vignette A and B buttons for examples of isolated personnel under the responsibility of the Chief of Mission with the DOD in a supporting role.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": "<p><b>Vignette A: Non-DOD US Citizens Under COM Responsibility</b></p><p>An American tourist was kidnapped in an East African country while on a safari.  The American along with the tour guide were held for four days and eventually recovered in a neighboring country.  The American citizen and tour guide were freed in a negotiated hand over conducted by the US and the East African Countries authorities.  After being freed the American tourist was transported to the US Embassy and control was transferred from the local Police to the US Ambassador.  U.S military forces were used as ISR for the hand-off and to transport the American citizen back to the US As tourists in a foreign country American citizens fall under COM responsibility.</p><p>A Non-government employee US Citizen living in a foreign country was kidnapped from their backyard then moved by the kidnappers to a bordering nation.  Governments of the US, host nation, and border nation worked together using intelligence from the US to locate and plan the recovery of the kidnapped US Citizen.  One week after being kidnapped the US Citizen was recovered by a US military Special Forces team.</p><p><b>Vignette B: DOD Under COM Responsibility</b></p><p>In Russia, three American diplomats, later identified as military attach\u00e9s, were detained by Russian authorities. The military attach\u00e9s were traveling by train when confronted by Russian authorities. The attach\u00e9s were questioned about the location they were traveling to and if travel plans were submitted to the Russian government. After a short period of time the military attach\u00e9s were released by Russian authorities and told not to travel to this area of Russia again. If these individuals were formally detained by the Russian government their safety, security, and release fall under the responsibility of the COM.</p>"
+	},
+	"24": {
+		"id": "24",
+		"title": "DOD\u00a0In\u00a0A\u00a0Supported\u00a0Role",
+		"narration": "<p>In a supported role, the Chief of Mission supports the geographic combatant commander when the geographic combatant commander seeks assistance from the Chief of Mission.  When seeking such assistance, and depending on the situation\u0092s urgency, the geographic combatant commander will coordinate through the established Country Team\u0092s SDO/DATT.  Within this role, and specific to personnel recovery, a geographic combatant commander may request access to a particular diplomatic relationship a Country Team has with the host nation government\u0092s military or law enforcement personnel.</p><p>The amount and type of support that the Chief of Mission can provide is situationally dependent and based on what the geographic combatant commander is asking the Chief of Mission to accomplish within a well-defined time period.</p><p>Click on the Vignette C button for an example of isolated DOD personnel under geographic combatant commander responsibility with DOD in a supported role.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": "<p><b>Vignette C: DOD Under GCC Commander Responsibility</b></p><p>Three US military members stationed at Camp Red Cloud in South Korea were harassed and violently confronted on a subway train in South Korea by anti-American protesters.  These protests arose over the protections applied to US military members under the Status of Forces Agreement with South Korea. Two of the three military members were able to egress the area away from the protestors with the help of South Korean riot police.  The remaining military member was kidnapped by the protesters and taken to a larger demonstration area. The kidnapped military member was beaten and forced to make a videotaped anti-American statement and to apologize for his action that led to being kidnapped. Eventually he was taken to a hospital where further videotaped statements we recorded. South Korea police were in the hospital and the kidnapped military member was turned over to them. He was later charged with assault by South Korean police which he said was self-defense. US Military leaders in South Korea worked with US Embassy officials to successfully have the charges dropped.</p>"
+	},
+	"25": {
+		"id": "25",
+		"title": "DOD Personnel Responsibilities In A US Diplomatic Environment",
+		"narration": "<p>A country clearance is required for DOD personnel to enter a foreign country to conduct official DOD business and activities. The necessity for country clearances has been legislated through international agreements between foreign governments and the United States. DOD personnel must follow the process listed in the applicable country section of the Department of Defense Foreign Clearance Guide.</p><p>The foreign government of the country to be visited grants country clearances through the US Diplomatic Post. An approved country clearance grants permission to enter a foreign country to perform US government business and activities. A country clearance covers only the visit to the country specified and for the purpose requested.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"26": {
+		"id": "26",
+		"title": "Coordination, Permissions, & Approvals",
+		"narration": "<p>Based on the very nature of the position and specific direction from the President, a Chief of Mission represents the diplomatic position of the United States. As such, the Chief of Mission retains authority to approve or deny US Government activities conducted within their assigned country.</p><p>Therefore, members and staffs from across the US Government must coordinate with the Chief of Mission, request specific permissions, and receive approval before visiting a foreign country on official business.  From a DOD perspective, this includes US military aircraft, cargo, equipment, and personnel entering a foreign nation to conduct DOD activities and operations.</p>",
+		"layout": "0",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"27": {
+		"id": "27",
+		"title": "Knowledge Check",
+		"narration": "<p>Let\u0092s check on your learning.</p>",
+		"layout": "5",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"28": {
+		"id": "28",
+		"title": "Lesson Summary",
+		"narration": "<p><b>Congratulations!</b> You have successfully completed the US Diplomatic Environment lesson. </p><p>You should now be able to accomplish the following from a personnel recovery perspective:</p><ul><li>Identify a US diplomatic environment</li><li>Identify when a US diplomatic environment applies to Department of Defense operations</li><li>Identify the Department of Defense\u0092s role in a US diplomatic environment</li><li>Identify the Department of Defense\u0092s responsibilities in a US diplomatic environment</li></ul>",
+		"layout": "0",
+		"darkTheme": "TRUE",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	},
+	"29": {
+		"id": "29",
+		"title": "Lesson\u00a0Exam",
+		"narration": "<p>Exam</p>",
+		"layout": "5",
+		"darkTheme": "",
+		"audio": "TRUE",
+		"cuePoint": "0",
+		"optionalTxt": ""
+	}
+}
